@@ -77,5 +77,84 @@
       "challenge": "00d47985f784d1c3e134a111214522b25c1ccbaab7a55505b5b42ed532be245596",
       "response": "72dde340d1bea2bb60bd6db5e2062a3da154a37ab989049de9d50abdc604a5c0"
     }
+  },
+  {
+    "sigma": {
+      "c_0": "00cfbfc3ea258f22df0d0fb9aa41c2863ee53d107c2d934fd37309f388e3ba224e",
+      "s": [
+        "682a9ea9ce4f06c4f8113f8e9fda93d99f91e9ca4f7f0ab33e26442f077a3a41"
+      ],
+      "H_malleable": "03ec986491e616470eba2527a1985ff6d0d086fbb309af12814b9012155b065f3c",
+      "Y_tilde_malleable": "024ef33c8466c7c44def48279d70864172d03210bc8635a8045963af429db234c5",
+      "mu_encrypted": {
+        "R_mu": "02f2ca8d80e76ede0ffcb88cbf70ed1726dd119905c6c1463dfa0b176ac91a76c8",
+        "mu_hat": "5c5169db69dc22f13173d3fcb8a61b8be2fc1b41c1dd1c50490ed38a02114b85"
+      },
+      "V_encrypted": {
+        "R_v": "0396f1ecabc7f7e8ea861828ea01f0a591c6e03135b3c5ee744f4f333e058a8cfe",
+        "V_hat": "031ba75368918d9a51d651a9f8d0061ecdd5c1e01eb859de301314864b663473b3"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "02c87570692d6ab317c8989a8fba8c8b2dbd2e7b70b379300bc419003e166b54a0",
+            "027cfb33a2f7a18376c3a6181fb2beee581f1b53e90053a74633d97d90aa5b4cf4"
+          ],
+          "challenge": "00d2e007cc21c11deacc22c9ff96aac051135343db2fafa1a6872199fbbb576481",
+          "response": "009a13599b1fdd94cf391b0cf2a047737e3786d71c9bc210f884e1166ad762f5e0"
+        },
+        {
+          "Commitment_list": [
+            "03ecd5491979e61675fe4bb387914ac854b99332fd14567c83ffe8714a3c834a45",
+            "02d7c2314571c5a5cf78e470a14586953e49e850c5bccdb7fda47ae51b8da8019c"
+          ],
+          "challenge": "355ec38aa6fcdb491454e0b4441d6e3647060f727421dea1f1171198b54fc69a",
+          "response": "597d7c750fa6fe8c9fc4e9b8976ff26d3b226214887fba046ef52fa774aca8ac"
+        },
+        {
+          "Commitment_list": [
+            "037a08a763211fa9fa9e3d551d3e693c6bdf3d51b183b13712fa14f86b248bff28",
+            "03957553ca60518807aac4a70ae8347105eeca6e0f7ff8f115ddbcaca7c0f9d0c7"
+          ],
+          "challenge": "0086388c64e900c04e9472b60cc8c6e60ed30f713c05e5d125bc7b235c1ded6851",
+          "response": "00c582a589109ec4b2cb8f0ccffec1d5b1aa129b3c793743f801d76d5ff85bb97b"
+        },
+        {
+          "Commitment_list": [
+            "0238883388c5533b7f8c0e42beb8eb8421804eab9a99ceef2770a55a715b0ca149",
+            "02d1bae5c7cc132c7a7ff8aa37138683555f5c48dfa9e0ac3669794da239610ff1"
+          ],
+          "challenge": "00a706b40cfa777e34247e137fbd10eedf6dc5f036a9d936cc9b32686503314609",
+          "response": "4ff3d429c2baf71ed08eb65cac31a1319f40040b612a2b4a6baebfe7a77eb5da"
+        }
+      ],
+      "challenge": "357e0bc8ac3637b69968744060a0037825d0faf2f4ff47c350417a3bf15956f3"
+    },
+    "V_cl_encrypted": {
+      "R_v": "022a14efa7e20073f60cf9d9259b3b6866cf3d174168351cbdb075d961ec6b7be4",
+      "V_hat": "02e4ce1f6b7b1decdbc49257ff062f9882d482b7e7bf8a4dd1ac9a4d199f25dd32"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "0379e2f4095c911ba334e52080c7a4ab5bb48d7df1f546b10bcbefcf85ca734c32",
+        "03dfec19bc3a01a3b9d00c76ff3d67603a4b6f9455c32a1d27026ce5c4c6ad8bb3"
+      ],
+      "challenge": "00c5ead3f0883ff62e5afe3a34af737f018f948bf129bb6f333a9dd0143a23e4a4",
+      "response": "008eb28680ba7491b5a332abf40a760c7c577448cd5a47a842a68f2020086fa541"
+    },
+    "V_hat_sb": "027308cdb985327e69fbed500ad1d5c3b48bb71c3ad0cd8e556856e20bd13eca37",
+    "V_cl_hat_sb": "02ee2bca5a34fc500e9b424fd0e398514efc8075c8de19602827b0c649496a2ee0",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "0325ae4859d07ab17195ba4c19996fd2d977a88f6d8f25c6ff021bab0219eabde4",
+        "023790fec142ac07e6392a25f21f8cc9235e2dfd0846c69733e80bac24e8f8eb5f",
+        "026da968d56455bbb91ebf806b2d3feec2fa5f1754c6944380d67e94cece8e8c3a"
+      ],
+      "challenge": "7ecfc57c2f22a52244cccd9a939f2c94e9f70c60a23db75ed2a0c5f750973264",
+      "response": "00c5a09c4d3450ddf72e630f044d20ca5d529b27a98c0f4781df7b885f7c375e49"
+    }
   }
 ]
