@@ -26,5 +26,33 @@
       }
     },
     "valid": false
+  },
+  {
+    "sigma": {
+      "c_0": "3c58a9ca9cb00917bebf570596f54c9a00ea3f6bd91891a2a3b1fdb7da66a479",
+      "s": [
+        "1c64e53830e47ab517cf0384e65e423d0277a0ad6f4f052cbed045e22ce20209",
+        "672f9fdf69e72eb05c8a3164d0951f0336a663ceda15b0f2b7eb039c593d9997",
+        "00da4c14750c6068ee94dd1a42d45e2c0688a7a84d88a417bea2c07c0d0078b282",
+        "0098882a77d68c5073e3b3a33af7acba1ab43bdf02625a7dc8b2c6edc198112745",
+        "00924c22a4fa4d35e980b125a40303e78037fb3ccdfec4cb9638545de6b9e332d3",
+        "00b19b6c931971dee65b115ad7bdfb2ab5bb91ab46b9ceb0bf3ee854f073beafed",
+        "008db4236da0d6e93b86055dbb75fc25706a4246b8cf2ab194b352bf59dd63562b",
+        "00ec2b4839e9c5ac82a3b6997e7d5e693a929fcef491d9d8fa3bd3d0f74fedbebf",
+        "1f2968420e499f095eac00365856c2dbf6a82cd750345e7f27cddd9b28fa25f8",
+        "00fd98bc197fad5e2ac00edf645e7a8e8b41fa4aeda7989657df7efebfe348ba34"
+      ],
+      "H_malleable": "02d38052e53270d7c8bb2f692e871774e4bf69e21f7251c84ce94e53f05e68fd7d",
+      "Y_tilde_malleable": "0330667073475c81c76301753f8c2900139639cdbecfd36926353cf5608b06df75",
+      "mu_encrypted": {
+        "R_mu": "02848eaf0d4b4dd317cee16f041afd32bf738fb47dfcebc9a43dae17ffc6bede06",
+        "mu_hat": "0091eda7f54e7a95d2d3b4cf6d3dfbc40578d3e2740a0dd85fc0360f28eabaebed"
+      },
+      "V_encrypted": {
+        "R_v": "0370cc9d2929821576e9b17da745c403c29780b175df006e5ccb0d82639962154c",
+        "V_hat": "0319dcf0a63cbfc10742d7b17c2c7237917625c4a6723832096e8dd14b648888b3"
+      }
+    },
+    "valid": false
   }
 ]
