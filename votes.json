@@ -114,5 +114,24 @@
       }
     },
     "valid": false
+  },
+  {
+    "sigma": {
+      "c_0": "00e23edf33fae8f286e642af992f0ef1825e9b7de67db41ba2fb96cc7b9796397d",
+      "s": [
+        "00b130a97981b3a316caf6a8dc9c947ba5f452cac50d9a9b54fda6636226f2b89c"
+      ],
+      "H_malleable": "034a29006d32ddee525a9b46d26af9f8d77022afe8b0aeb956711141220c514fc4",
+      "Y_tilde_malleable": "03a23a1a2ea59c3ceb926652aba76216ef6e6cd6742fb1c2eba12439d57d632df5",
+      "mu_encrypted": {
+        "R_mu": "02407e6619c04ce32e0c177650c5bff063373763e473c65eadafc020f283a6af4f",
+        "mu_hat": "009fc2f73ee4095c54c8c1946d7323cf03a542184051c4e7de9ae713d88b8c9c31"
+      },
+      "V_encrypted": {
+        "R_v": "0252e0fa9b2089f17d063ba05b06e2951a78003ddbd4f6734d15958fa51b577197",
+        "V_hat": "03d5bec65f99bcea4da127143ac7bb2d7c6283b6466553cdc7c3582f0b34197afc"
+      }
+    },
+    "valid": false
   }
 ]
