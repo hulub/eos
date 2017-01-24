@@ -1,21 +1,2 @@
 [
-  {
-    "sigma": {
-      "c_0": "05a149c9e98397f7ae27c1beba37bf4740903336f732c240b502b9f33900b2a6",
-      "s": [
-        "00f03c2109303659f0caa15ee9fb032f8cccd8e703f367f04331213cdcd5edaec2"
-      ],
-      "H_malleable": "02b7d9775395025806e70ed8ccf7d10476b8f0dc299c490c10f151941af8a25460",
-      "Y_tilde_malleable": "03080e972f00fc26555796a2fe045afac788ec85d23f84ae47c9686ec20a5cd616",
-      "mu_encrypted": {
-        "R_mu": "02a30cfeb4f5996c56a573b34a965de7223a42d057011f6d35c754b119022230e9",
-        "mu_hat": "2941eae4113ab59b42f2924a766420235acaea0e92cb8f2b022e332a6280dd1c"
-      },
-      "V_encrypted": {
-        "R_v": "0394c60c7bc166046b4e5114ab3ae27c515a9dbe43f175546c530ca7ed02a54ef2",
-        "V_hat": "03cf9562625dbd1ae4b33efdfc54bc24d652312749138454c37d5ba6ec40173951"
-      }
-    },
-    "valid": false
-  }
 ]
