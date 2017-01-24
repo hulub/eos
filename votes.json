@@ -1,2 +1,90 @@
 [
+  {
+    "sigma": {
+      "c_0": "07aa5fd8b22abc3207368d39086aa45f0e8f8279f04b8f6c1a30b24ceedbd040",
+      "s": [
+        "4cc9a160c5daff06577e201ac8de135814dd28d1433f0410ed3329fc3a9d021a",
+        "18b5adb920f8a58dc128f305b7f17c97fba56d2c270f990d5a981de62c1c9481",
+        "45f563b2a4e34f420eacf8903a39e03259ad6f55dfb68ab069428cb995f3f1be",
+        "00b40eaaf02333db3879d0967282746675dd25fce6064fb3c3ef5cdbf49d69d8",
+        "00edec9b2a27c63cbb0c5feb59d7d8ffc438c50e1ec067b2aede5453be71a3f20b",
+        "00a984c3017df3f8a18e9ff81dc38915e789034c0f073a93fd6181963bdc91fba2",
+        "6fc184431898f95073d6168e27699408b3d1dbc914ccc87c5c059db92696a950",
+        "00c0071e7dbcbaf92544ec3a2c24c405db3dd6b629846f43bf9f68033b7fcd0006",
+        "00e356e8d9421304cae71dad57a55e9eb80ec87db5170722570ada551ec37a0c4b",
+        "4981f0eeb18c9d540efb5d146199742dbe00f5e679a578f3982769f428391183"
+      ],
+      "H_malleable": "033f3bbdc74b71b198580d629b347c56a4290cba0a03654211b3fca8f07e6ea529",
+      "Y_tilde_malleable": "02e3436dcad428e3b80c233f8cf4dec6e1ca9cc30ca8ac1a9897c50b7e3a9a0ea3",
+      "mu_encrypted": {
+        "R_mu": "02ea8b1e297235464f192ff8a8d186db6b75e6d7becca57f3cf35a192ed21e0805",
+        "mu_hat": "00ddb2ca330131f6ead9a00b7501cdf68dbd2948842588dc33d9367ea7ac79adb6"
+      },
+      "V_encrypted": {
+        "R_v": "02a439b1d1d8d337c0272b366605faf5bc34e0d6786fd23ed2d408f901996ef306",
+        "V_hat": "02c59a42971d2d7b6f74f9a5d1c3b10920ce7d94054bf5ad62bec0871115ba3f84"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "036b286c980b01ab1d0e63f4909d6162b98219c1d4593646a95ca8a48dec49e2ba",
+            "03b37d36a98b082226591a16d9bb17278b12577e8bb01ffded6a8df29b7d72602f"
+          ],
+          "challenge": "00c91e9c74b046b1c8a78035704f6eb38dded3e8da4917ee977ae2f7164c14689f",
+          "response": "00eb4a646b257add1a68b3224a92560ded33eb396f49126290791df6f01217cd13"
+        },
+        {
+          "Commitment_list": [
+            "03cfe1f530129c9ea3edc88bd2073fce3b98abd6cad9c6f46ed6dc362f20380153",
+            "0349184a16693e451091e249821031153ba942b26bf003eddd4b92940e403785ac"
+          ],
+          "challenge": "008da8f9de0c1248d2d1f4c28063f56090e3e2e8168931332a134862ccebfc46f9",
+          "response": "21fd222e792a220badc8f48bea3c65165697448a7a4590a12fad713ed3ee1c4c"
+        },
+        {
+          "Commitment_list": [
+            "0340805d3844139b57ed5906407f87a79d0beb89d83a11d94b42b76f0aac3dff55",
+            "027463669ada20945f9d3ee14a28255708dfe149f0d019204c0012511a2742eef3"
+          ],
+          "challenge": "00e3f7e532cf893179bd0e25c7f1ac90db80b89926b6cf584aa28ac1788e9933c5",
+          "response": "7bad3a4fd1b02d26f1f2684cdb2e60ed24fcb9e6a3bc04420dbee63228533ea0"
+        },
+        {
+          "Commitment_list": [
+            "026fe2f8806d24fe1563f329aef457076268f15bbc8e7cd8ed1f37c182f523918e",
+            "03a87ec1b5e12743a16d784c52159a726ffd039acc14573031fba37e17e7b75600"
+          ],
+          "challenge": "00f6afa7c70646f5088217213fc6ff78fbcf02c58bad14554b7a2b9d8049518c9b",
+          "response": "3e2b5f9d3084445ebcf947c141bc511f95a4b6b443eba5676fecc4caaee7e263"
+        }
+      ],
+      "challenge": "316f234c9229211db89a3ef86c101df9e26598ef2852eea46b6a9d359f58ac35"
+    },
+    "V_cl_encrypted": {
+      "R_v": "039b8ac298b532ede10939094695719ef10333ca53ed701821870d88fa7eb8d527",
+      "V_hat": "03da2414dc9235c138fba80ad12742ab8167e293a14e289dea1c9aa03d4df06b7e"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "03a341088516dcb304d2c48829a65b7cf87e0712aeaefdc6e385b2c172c7461739",
+        "02c69e9c24586ffb83400d1b3448a91342481962933159fb379497ccfc983ea59c"
+      ],
+      "challenge": "70dd2707a645b02677c2db8e1720b8d23e3dbc6fdd83c7708a689cb4ef22c7ea",
+      "response": "00ad65f3f602506f9d13d5eb4dd614aec748c65e409f1a9db67dfafe6f678641cd"
+    },
+    "V_hat_sb": "039d3db7f91d842ddd8d81d2aaf2e1e81d1b52b6712454128466a419b7ba98d7af",
+    "V_cl_hat_sb": "0322224c2218d74fd601191eba609bb263c3378c301602bd1d5396c546e0db1ef9",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "029758fd00eb6506aa67deba7fa63015f6979b359423981f4fd23132dfbdf1173f",
+        "035e96fc62784e1c4d944a26a7622a9ab3d8ef302d9d3a4f8335dbadf57c569dfb",
+        "02c7c056fca5ad16a417033668a81c432bb238ca95d0d002cfc9281e1a3c5451a9"
+      ],
+      "challenge": "00e331c8732c4c28981896ef4b8fe3beedcd91e0a5cb6ab35f84495c9615179e2a",
+      "response": "00b86bb3c5169ed2f5b2ac2df769c21636ae8cc3916c044da9c66995dc5a33df95"
+    }
+  }
 ]
