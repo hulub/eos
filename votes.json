@@ -350,5 +350,33 @@
       "challenge": "0b411a2cddde98b5405bddb7a42d1989df97dc72e7f398e61f8224f5910a4b7a",
       "response": "00b2df817cc9b74e7e7c7181f4709bcd986dc8cd729be63f12772a0b88ae132f98"
     }
+  },
+  {
+    "sigma": {
+      "c_0": "6c71eec7481ce3d721854a2431a234c4e255c1a3a5ae8b46a5029885823bca44",
+      "s": [
+        "2d34e131c0a7f1cc05b0ef9fc100d08760241777d6f802285a91710ba8e52b54",
+        "00cf29dff855954caca2bfbccf2709efbb211dd7a0524733a50c73309ee77ff6bf",
+        "00cdb270b407e9a8c268cc1abcb1a1e92106f236aa79a5cc6a2afcff991a8641ea",
+        "009ed2b7e86efa5b2c6a196d99ec0fe93d25aeeddde0391d1cadf62af2aa0bab2e",
+        "00c100965c12387a1c6288655ce3d27f540e6cb33781207a91fa3d985e84d98a8f",
+        "7ef019eb8cded91aa8a997da9166825a4a61f4b0d9e5ba251ce4b4d7d7501bf9",
+        "05c97fda2f3ab6d9004ad29a148074e2dcd44bf6174f4fd88e7134d9f07c3aae",
+        "6eb2ec3e80f5d717096cf278be79ce0157ca7645dabf5f85a4640bb39f495069",
+        "46e7987bcff84b36f80800ba836dadbf166605e235b8c0cef3ee1ef361697f0c",
+        "6edac66e84b76a2198e5801a818e9d793e1d69b325d0bad0a0dfacf18f8a3419"
+      ],
+      "H_malleable": "026338c5731fa3e20c5e5a8df68c6762b1c52e6ffda8fe7b17a7e359ab09045761",
+      "Y_tilde_malleable": "026512f20e2f5fd78c55c813506bb0efa464fc09e6bb813960f20473ce9fc70838",
+      "mu_encrypted": {
+        "R_mu": "0352c6ec7a6f853d70f9c6f718db7241322b933e5b545e9c203e82f7fd6fb2ebe0",
+        "mu_hat": "66ea39ea612f5e9dc32c6582f0db264b25640fa94eb8a2f3571b6fe17085c4fd"
+      },
+      "V_encrypted": {
+        "R_v": "03fcf42ff3bc4398f5fb2db1cd9beaf3cb3d6c13c11792019cd572155348652194",
+        "V_hat": "03baa2d18f76bc57d5c640805b369bcc53fafdc4a797bdf91dc23d41e0ec8918b2"
+      }
+    },
+    "valid": false
   }
 ]
