@@ -1,2 +1,28 @@
 {
+  "Y_el": "020b6e2738df3893446b036abdcf767db9ab6635129f99fd233fb80c01b4e7efa7",
+  "Y_cl": "025b794dac74bada3b3f2994a50014b48cf0d3b34c1c5c5eaa3ad09bca29d3f6de",
+  "Y_mx": "03d38939f4ef9c72a5bde9016c3a70c3eccff45efc924f54d2da3df55cea6500d6",
+  "L": [
+    "035cdbb42fb47a672828e1b5492a81bba8e1030aa213add05c1f0bf45a3e09b58a"
+  ],
+  "candidates": [
+    "Donald Trump",
+    "Hillary Clinton",
+    "Barrack Obama"
+  ],
+  "PK_electionKey": {
+    "Commitment": "03400d0585684b669f27b483a79e2c56ddb04038fe5ab067c4ed98ce4e846a604b",
+    "challenge": "00e9e7d6b6df5988d59bf69c2280c3a7161d016b42023296695bd2e60ac9708bd1",
+    "response": "2faebac8fd6e836a8c218651947d5fbad35adcd051207e1686dc67c8daff912a"
+  },
+  "PK_cleansingKey": {
+    "Commitment": "02ffbe00b55d32c9c243df674d0f68d164c539c067f36de6dc5bd2e69f5b6857c1",
+    "challenge": "0085dc94600ff02e2cb055c8afc160239aa3b75ce9786ca721835d13369d94fc04",
+    "response": "0096d85d46f3c077c7e938fb36c8971d7c0b2ef9cb323dd8414f0f9f2921a827b8"
+  },
+  "PK_mixingKey": {
+    "Commitment": "03ae431fb94010082a088599867f257de7fd58ff94eaa22b4a8d2c0ca9099ff8dc",
+    "challenge": "00e421e1568c8bfabc0f98083bbc05460ac6dd3b3544595a6b80dd09fe741f9fb3",
+    "response": "4454fa6d5100ac3b9732a1cd24c5cfac2786291a019bd7e9b64629a5e16f7c8a"
+  }
 }
