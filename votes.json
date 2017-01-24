@@ -322,5 +322,86 @@
       "challenge": "00827bdd5bb313f0d13d84dbbd0bdbd4a98b8d83c97e3637c3672b9e577f27f1dc",
       "response": "0080cf70e32e31d17203243715590cc44550ed052f20bc66ee1736b45281c22910"
     }
+  },
+  {
+    "sigma": {
+      "c_0": "00d05eb844de61618a581a158e3473292426a845a462702c4fb72ccc76e53cf2",
+      "s": [
+        "00cd85c70472f600c136b21d0ce1c3ec31737e035a65cf7c140ccd645a0287e8e9",
+        "00be99eb33a7e11df61cf93b988400b310541b6f634b6720a2308fa231e141ea79",
+        "00b90bd203bb3c7a656f0f829b6ffd67a3bcbcd560d7016b97d5739e67a80402ff"
+      ],
+      "H_malleable": "028bea7989bfbb026277032c4dfd9cdec0a8ecbe2255abff42328dabdeef2e6f21",
+      "Y_tilde_malleable": "03dd22a8f4c5a64acb1861f4770190f8c8bcd7fad02ec534164126cd38f5039a04",
+      "mu_encrypted": {
+        "R_mu": "033247cf076b60881c14bf83005a40a5094b31f92a443bfedd92fa38688e310190",
+        "mu_hat": "00b52a6d7f154664c302865e31b873f1382a732b2d232927f58dae7998cc3ff281"
+      },
+      "V_encrypted": {
+        "R_v": "02a4416c1136e588333ddab5552622b867f6b2ea4a436aaf10c97cfc310f738612",
+        "V_hat": "03a34318e58ec90ca3378fccaa9999817cda6238b3c1017a104fd6239e30c10e87"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "031738f1f90b93c1c1a86aad1898c6b6f049e12b8dedfd1b03cda093b9dd6c412d",
+            "02a3f041d4e251723aff67f20fcfd15a6b9b619ab257f953f528563b4751a03dd9"
+          ],
+          "challenge": "00cb1c4aa9e945609fbf65ae21c94e8868911ed6a329a323c5d2601b82825b9dbf",
+          "response": "00c70a076a6849ca985d0b81160bb9880ceb74777552eaf84e2c68b2d31fe4c983"
+        },
+        {
+          "Commitment_list": [
+            "0397018b4f707c7134ba443dfa65cdcf6c8effd674f74bd25a0758f29501ed4148",
+            "039ea454dfac04eb1d643d0142b9bd4c8e9fe916d6e251dfe002f90ac90b372df6"
+          ],
+          "challenge": "00ef0752c6e4a3dd702e9a0d78ef1ddcb700ef318262b035498e71c4df4493b617",
+          "response": "5aca2591c7cbfd11774de77c8f68b1738f227a0bad3f58fea78d7e7afe8a27e0"
+        },
+        {
+          "Commitment_list": [
+            "03fd1501d56ec3ea2d2e9edd35fb4ceb03d875b66cfad095b723ce1c4c5ce6c365",
+            "03dea9db0bd19ff292715a9a37813083c646ac6a8a5e4de1b7c5bd7a946936ff11"
+          ],
+          "challenge": "4d76199a45716d46245c7810982ec7a0ac63375a0a8495707d45e34fc49f9a56",
+          "response": "70b947a8583cefd9dbf1a35b3f41e789cdc8f803ca6a2b29b101a6176ebf3ac5"
+        },
+        {
+          "Commitment_list": [
+            "034f160e23a2a4d9535c3509bbb86859ba2b9d870c0eb653e979908c8a68d639c1",
+            "035cfe098483c6d045d6b7a558c97fd78ef2881d924d6cf9c74b5cceaddcc1f2e7"
+          ],
+          "challenge": "009e3dd7d0bef214a29af7d9c73843026b4bda9b1f381b4605d3ee4ff198cacad3",
+          "response": "0b32c1d62095398d35e7013af9930e2096bdc40db306f2e1722a1c01c5f3050c"
+        }
+      ],
+      "challenge": "00a5d78edbd24cbff8ad540d7288de2f2e14ee20d17061f40e3261568983ed367d"
+    },
+    "V_cl_encrypted": {
+      "R_v": "03a95f357fc18b7cc337f85f714a195d4bfbe69be4d53009689743a1aee43a9d64",
+      "V_hat": "030d9d074a89ef65e976fe70378f603509f32e0c9441d0f84166b3bfdaeb211e60"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "0286023be6ecaab7c38adcfc5ec730bf110f4ace2bba87500ead2f3a94238230d7",
+        "02b05ccc1950b0591773622831decf50e0815bd5adf1254318dc56c3c2fa7d9745"
+      ],
+      "challenge": "4d2b70dcfe5858a0ae92b63d41621ea54fd6bf586163581fd51bc30d833bbc9b",
+      "response": "6db2b9a8afaf9ef55e486f590fb1917bf49412d2746dd4024177503d123df74e"
+    },
+    "V_hat_sb": "03fa272f6a7c315cf44e5adcd06496b9151b1675189fd942495da3e0a620be1d7e",
+    "V_cl_hat_sb": "030a2f6606da672926ef8e2bb15900d9ba4b5951a4520d9be39ee26c91b9c593d0",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "039ba2b4dd818d3017ec1578a5d57c9107056d433c2debc887545a4dc6027dfd9b",
+        "0229423613c89f7e359f4fa33677a3a2c827d898973596aba31f1fecf64235f475",
+        "02c00878706430ecd82f1476331af53aab0e4056727a351c6e251bd096ad9a745d"
+      ],
+      "challenge": "00d2d9bb81d13239bf2a9c7385518bbec25e6be37b5350ed044fb1be2b351aa849",
+      "response": "00e5160369b7c6ee1e880e66c5d48cf74f0095c3c3fd5010d64dd8380f53b0dc06"
+    }
   }
 ]
