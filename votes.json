@@ -1,2 +1,83 @@
 [
+  {
+    "sigma": {
+      "c_0": "00b74b3d2ec444aa9523b0a164f3ffa13357de15fc3e85aae620b371dc1d53b204",
+      "s": [
+        "6fb6b924a2fc81e609b5e0e6727a0fea50b6d86e9b387290326d83a150ab15cb",
+        "09e65b246b8310186c203224abe64a19e5b01083a3c880ad7522ad7f82694acc",
+        "39c4936017586f74971fd66bb02cd47838ec2d07e696cf3eb4eb27ce3164cf68"
+      ],
+      "H_malleable": "0375aa6fd1011b98e63ffec16a91bd023703361a1f3b4d1070961324d2075b93ce",
+      "Y_tilde_malleable": "021354d814794454a3dbfd077bd4ef88bbe50143df354c84ad2dc29a6dab520d08",
+      "mu_encrypted": {
+        "R_mu": "02eceb868b3533cf8b9712e9dcb1b4edb0ee66a78f57db75fc8e86fae64894c1bc",
+        "mu_hat": "00e99079bd10d1c602b8cb1847c524443f3ac8aa1b92ffb79386e12a4e2b10b7ff"
+      },
+      "V_encrypted": {
+        "R_v": "0299c97d632a266c1ba179b91dd8ea3cf982c3fdc3e2dd3644f37c0e62c654fa8d",
+        "V_hat": "0298905a9a7f7d955b4653dbefcbcb7509bc651e86e8dc5e911f14f4ae02b5ae1a"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "03569e6be06da5560a2c4717a695dc605432c238bdb1bbdf01682272b09c359885",
+            "03a415895a8749a59a67638a1b4fb869905bfca3b35c159d218806c291f245bec7"
+          ],
+          "challenge": "00d29d611e843fe644935b225847ee2187dc635ba43fb5f2248eb4da4070283bc1",
+          "response": "00a0203e01c13a7ad5affb505683b136d8685239545df16a6b95b23b1880d82770"
+        },
+        {
+          "Commitment_list": [
+            "033529dc3b3ad649e74b65324327f727e47bb3a36052bda398b097316fa6f584ff",
+            "0359e7003d9a097f0bde6481370cdd86e8b4ebfa70fe5c3abd1cb7fd7878270596"
+          ],
+          "challenge": "008d3c0556b5d938921eefa9f04546f445d186f05752ba72a037d313ac05f10969",
+          "response": "41c246ebe51dbfbedcaa11a274c6cc4d674ac12909fa8a3367eda24e0b21ef18"
+        },
+        {
+          "Commitment_list": [
+            "03439ce13fd3ffac33e16ff641c98df0fabfe1c88df1474f9251d0900354f3a20d",
+            "03c2b1de0e5a20f4a52ddcf6be8d608a2fcced9d68dd6764a221911bedab284417"
+          ],
+          "challenge": "44c1780dd61fe2b0c633c04d0e93dee3f2800c97e53dd50daedc6df0dffd0862",
+          "response": "00828bb930f52d9e257bcb6e64629eed9c74d48cf3ccdbfcc8d5ad368c884f66b2"
+        },
+        {
+          "Commitment_list": [
+            "024575945e16102d9d6087c93a1e31f93c77b34f9f2cf2dd9250a7bb9231a66606",
+            "023c78666b719f4eef1188efcf19a2c8aa38d5d5a6df0c1ae8930b09f40dbc4530"
+          ],
+          "challenge": "00c4334b83a70249d2ec52acd44658590a7c418dff247f20fd68f1036194a047f3",
+          "response": "29a765b25980da3526f7104d6bd37068bd880f2c7aced7f6297fd0057d61dd1a"
+        }
+      ],
+      "challenge": "68ce2a06b73b4b5a64d13969e2214dbea74e2cc53d9c1a585eb0a2254a4a12fd"
+    },
+    "V_cl_encrypted": {
+      "R_v": "03a9289262b32d0bb0ed0a9eb82f0f09d955dbb4bbdfd4a5addde65ffbc7046443",
+      "V_hat": "02f42789b0b3edd79a59674f3a133f4592fb80c06219e6be944f2c9b0385703c4a"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "0290b2d5925573d9a85e0de778f1804791bcb9bdabefddb899a1fb25e0b13eec46",
+        "032b31c6968b2c12f9bdd971120f2dd212354bda3bb8258cfa163deb7fac9021b9"
+      ],
+      "challenge": "009afc2034cb2b0a376a5b4ac8744ef3a1d4b812087958881f4a3a1925c9fcfea7",
+      "response": "1068433a36c322572bb50624a64a61f0c155fe403e6e4394d7ee989e95cca278"
+    },
+    "V_hat_sb": "0298291b696dbeaece24456711b484b3c92157a5360e04141d21c3e750b9bb205a",
+    "V_cl_hat_sb": "02f997a2ec8b6a8e1c7eff2e930d3da77c02795cfd10410c08c64ad6e7728f1cc8",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "034b3e0944e96e7fe2f44e0429f24b1931dd068fcce67b0408c5dd2dd7407e3aad",
+        "0318099136994bef2cb880d717edf84982f76df9d30712a7d66d38ef2de39b10e8",
+        "02787cdbe60cb2b9d66e3ff4c0cc824a18fde53bab568e6eecd0b73477becdd60a"
+      ],
+      "challenge": "63512b79c975607d4dd15a35612e80ab8d2e6c2ef0b85bf3a34eba2d1d7c582d",
+      "response": "11c2e4cacce1c03aacfd9a5f79f4170dfea1bd1e88699b4cf8a6df9966b73019"
+    }
+  }
 ]
