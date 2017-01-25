@@ -160,5 +160,86 @@
       "challenge": "6f1cc2a6e7dfa81c25ac58114fffb923765012542abf261c0a60a5d07a011c8b",
       "response": "00c67f564a6174775101a03be9428a6f7c7dfe8ef2778472ec99571d69dc19fd9d"
     }
+  },
+  {
+    "sigma": {
+      "c_0": "570498e5486cfe4025fabc8f6f044182045fef879a5fbb361404aea5469d10d5",
+      "s": [
+        "019673db1c9c4c228170a9d4898bfd5394baf284e109c45b88c2d310903c83ea",
+        "60b223d8d9f069f3ef978b86b30420d6eebb87eb9304e97ff157fbb8c59bfd51",
+        "29463ce7ae9e013e64dcc0d1facc54a26c6e4bb183dbfab46ce9d2c2929d0828"
+      ],
+      "H_malleable": "02e969411b43667107d9bb8373da711bd8ac704510347dee6d8e0bed0205342634",
+      "Y_tilde_malleable": "0290a0f267840ab3d8bec12268940734100206495bb32a3febd1841366570afde6",
+      "mu_encrypted": {
+        "R_mu": "022293b29b0669f861936e3ec9812ee39a954147bd0f3e0b209370f558e2aa870e",
+        "mu_hat": "00fc7e820dbe66bfdd239ae45c73b30e2a617a1ef21bb4ae3b29c5ef90f17495d8"
+      },
+      "V_encrypted": {
+        "R_v": "0398502bdad469693ef417e5f0b480142f67ecb8baec15b5d5fdb1c8212c0090c3",
+        "V_hat": "033b6a01921f113c064479297c06b0d359d00a23524f76645174d2631fe93edeb5"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "023ddd1628cb90bbca5f9c7bcd3d8e372989c70b8b3aca3835a33f74d5d794ba3c",
+            "038f638f0807f73ae8df13563ffe9339b80e7c99c172440b7c35abf478e1149ac3"
+          ],
+          "challenge": "3bcc7fd952ec9a0196cb447361de4066cd470085ddd5d6f21b414afe546f9e57",
+          "response": "0089cee253e0e4265abf09bafa38066dcc87415f9bdeaf3c103dc0ba6f07506d36"
+        },
+        {
+          "Commitment_list": [
+            "03f556ad088c11d5938977d86af83e986dcb0fa59d2fb12cdc09f60430ccd1a3c0",
+            "03a8b3fb997cd856241a0f3425a7c0ef259c64f41f554e3780b011714476947784"
+          ],
+          "challenge": "00aac311035ac8dbbb11e7276e36786bb8e23a927bfb7638e44c26de9b1f43b6f3",
+          "response": "00b0c3a40d367465a67cbcb8b4023e361c00efba4feb776dcb2c991dc47b5135a4"
+        },
+        {
+          "Commitment_list": [
+            "035f2db170c7cf45305cc72c0413dbfc153216983d1ecc82aa24ed3d46f77ee42f",
+            "0290cafb7942f080151607e4ba7bf67b5839d528effcb8b37e15928f5416f119d4"
+          ],
+          "challenge": "008129d04778bab1c03d3e0e77714c5de3acae058429024c9295bad65873c62c73",
+          "response": "24a1df6a77918e63a549594e307a94370e7f4b7594d7ceb7e89fac9d6a387c71"
+        },
+        {
+          "Commitment_list": [
+            "02676179d11e574fb6f85c0c715781e6dfc35a01124549a11b53f6c58473383037",
+            "037ab2c5f9f824c81f59443c10ce670ae78d196c0a07eb03513686892c7199df71"
+          ],
+          "challenge": "00bb1b10dea2142d92422165f9d5274548028002785f2f661e9b291b3e6500afc5",
+          "response": "00ccd94e20f067ca5ff899c6453238777e2d8ee1932b8b39683abaa75c3f4783cd"
+        }
+      ],
+      "challenge": "22d47202c884550f2811e052deca4f4de951e13102ec821018a75e16ac0daf00"
+    },
+    "V_cl_encrypted": {
+      "R_v": "0319377662edb1888229f61f153ecf852eaf629859c8cf08c628f25bbb72a018e0",
+      "V_hat": "0378bb9560f608609aab3750ed4046587140be8118c314c032a0c7289cfc44a37a"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "02975b1e46b2e0018a4ba1cc6672e71cd62a2d754529812dd3d4ec5272ddfb70ff",
+        "02d914e9ff037e810be5906ae8f97b5443b555a670ef061c75251a49b44726d66b"
+      ],
+      "challenge": "00d4f24f320f1bd02bc29bb0863180c81d17e7fdb6b07377dc4dfe8688aca13a0f",
+      "response": "36eed43d86521b338128ed915056b94c95fade88680d85ea58f7bd18ed0edd69"
+    },
+    "V_hat_sb": "036bf5515055622ca96b0dbaad57cd92f84f9221d1b39e758948053767ee8e4c7b",
+    "V_cl_hat_sb": "03e08ff514d3431e450b9d4fcb42c38e2f32f15e93b9d92eb2156e180dc69275ca",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "020575466ee0ade71ff7e4f5539bc4c313de5a0f45b25e51ebb8644bfcba55eb79",
+        "02cde1e722f5ef155e36580d70d8b8127741e5c18f0db994bbb7583f4b4e6d5685",
+        "03d3323a97c4ad453d1d7ca4d5e5a68a597ea678e82314dc8644b13c12a7c8dc95"
+      ],
+      "challenge": "3a9341d620313e5787fa80afc6cbebcf24929636cca026719c22664bf5c56cb6",
+      "response": "00f9c09d8215ba9e3a6f7bdea3fbf8db72f1bafc26f6031fe4cc00f71405d92498"
+    }
   }
 ]
