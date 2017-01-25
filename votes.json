@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "sigma": {
+      "c_0": "0735bf13551efd5fa0c48184d6e03dd3ce990f67a197b4a7f0c925307558fb8e",
+      "s": [
+        "63928caf08f289a7a82475c93fb58b64867eaa62821be03e9345b894407a1f5d",
+        "00a035bb69a8379137d0a55685426c63e12584ee94d50f4cd727ed8451f7cc8bea",
+        "00cc67ca9c69eac4d3b6be497f7928221733d0f2b3d961ed00b0c5dac3039a7a35"
+      ],
+      "H_malleable": "023bba231d47f0bf832387296369002bb8ef74637b2f8c60e996fbd2614952122e",
+      "Y_tilde_malleable": "021402b1f52bd0f31ee5385311276b9049c698c58041ce9811f2d9d583785cf500",
+      "mu_encrypted": {
+        "R_mu": "027ef3733d5cb74972e711409084d1bdc18ed87f8d1fc29973c656b1fc8eeab2f3",
+        "mu_hat": "00b6e6c790e9f88adf7c3b495f93e12a062f663e474c03801af28ac6a1f3d955d6"
+      },
+      "V_encrypted": {
+        "R_v": "03959ffbdf71b4bd078a70a1e49b61dfd08b7e2c14b6443e574425e62e75fe0571",
+        "V_hat": "038a74a09cfc0d711c22353b0c3ba7bcf136adfed5e3282ff18fadb49df55238e1"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "030ad4017e5d6db87e575228355c86caca5947d75d18ab39d29476382b04afa3bc",
+            "02643bd09a1c8597690b4e8bd9eb722d9e6543af35b99bfa40186d6b16236b84bc"
+          ],
+          "challenge": "00f91e96b9fe84eb5ed3bff233f95bc661af02b106594ab51598f3fac88d822fff",
+          "response": "6c1429776c131d3bd15c965b03fb6be0b5704c6291584aa9eabf9498c5487417"
+        },
+        {
+          "Commitment_list": [
+            "025b61fde3bc46f0d2a2817936186d9ca838f6db8cf4f2e91941adfe80c9422004",
+            "0305d9e5b1ccfa3b13e794565083cb0aedae0f39efe5abd3dedca80397cc8f4f10"
+          ],
+          "challenge": "00bc8f235dbd5ffeb8d29bf51b99150e4d3632aaf5f9c887f37dbb7d830be55e05",
+          "response": "6b0085e625b4d4b2f46529de44f08f71d666ca3954a57e87d659055fc41267e6"
+        },
+        {
+          "Commitment_list": [
+            "020435b980d3abcf21f5a90c6da6009123f027c336e0c353180adc94b7778ff60a",
+            "0357d50c784dc907c485e3222acab944a8ddcc959fcf27f7b5e28518cbcdca12db"
+          ],
+          "challenge": "009c29e8a4f4e39e814fcbcd95a973bcbfda8de55abdf31a562e0bd378eedd171e",
+          "response": "6b9446df6893fe17ead5900f6d96c3de72adc32a458772de808fdc50278da775"
+        },
+        {
+          "Commitment_list": [
+            "03cf80f81bf24f45a6d7e46e9a2da1fcfa95e4380deea903118822309571414130",
+            "021c653c6ad016a23cbe39b1c3be7154d7c03e6efe57eb76cf8f4a0e8f331ab876"
+          ],
+          "challenge": "00ec3fe4f399e47dd3d7c5ff6c13371b4c41b9f62f5f073176ae85b9f44b217aff",
+          "response": "009001449057d3cca3e68fb669dcf481e3a37d33a54f62409bf335c207defe3419"
+        }
+      ],
+      "challenge": "3e1787b04aad066ccdedb4514f1bacbed170a0d26233a822b3c9ea1262c35c5e"
+    },
+    "V_cl_encrypted": {
+      "R_v": "02cf455d8521a89d1224877bea01a4f341789201f39b972db305e0da66dc91a0e3",
+      "V_hat": "0390f7378b4111b94fb37e0017a5f35f440ced5b71b78c362f14fa601479663dd0"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "035dad91947eb67d85e877114a4623199b7f65963dfff8ec6c9950f3e43d95b572",
+        "03688e67181de70e4ff9969b87fe7cd00f3582fb2d5a346c9f927c7c3b90c58b07"
+      ],
+      "challenge": "3b975ff36f9caa919bb54d437e2c9eef667360005b4026f5bf294d955466877c",
+      "response": "0095882b41f4eac2dd8fd401f5141aa5096416b05719e9d9f26b0f8ca8f58019ff"
+    },
+    "V_hat_sb": "0375ea3644931702d0ab89f6ecf90f4533c982cd35d872716cb97da124c09c95c3",
+    "V_cl_hat_sb": "03c426fa10a803c4947343b1dc895739146040b563e916343b41aa9e50db5d1966",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "027df8cb66fb25a3ac2b236796aa80e5aa8c1cd20a291625b778cd059ac9908ee2",
+        "03204bb797788f2df2d8558c441ab1d15ac60a283e17e177755403605532e9150d",
+        "02551f28a64ace8e9cd85b0656b82be05d3528c5efbbbce8cb2c531601871feef2"
+      ],
+      "challenge": "00fb3224c6d89848e3015bce3aaaaf1e492c7b6cbfc1d2fc9858df9db4a7128906",
+      "response": "6de437b40b38798e7afa6c8dd473289dcc963b62772cb48c5b035ebc552e3b08"
+    }
+  }
+]
