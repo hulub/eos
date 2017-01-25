@@ -1,1 +1,300 @@
-{}
+{
+  "PK_mixingKey_H_mx": {
+    "Commitment_list": [
+      "02937601a2f7bb3b18b0d4f21033203b1d7fb0155863e539da88042415bd30b57f",
+      "03e4d7032fa2fd6090bdfad3adcddc586c545ab1f6e8c813dbd747a899cc8db3f3"
+    ],
+    "challenge": "715dc7a1dea1325c5fd34747dce635822a8b75c181f197bd3241c009f8f130a1",
+    "response": "0fba75efb10eb7831fd5f452c5a2c1179595408a3644da5405957e2365d701bb"
+  },
+  "PK_consistencyOfMixedBulletinBoard": {
+    "Commitment_list": [
+      "03ecf906f51565888603c3560aa009b197fee3beebc9e6838936c690539959d3b3",
+      "028ae0b86713a34d60c5c52d7a98029013d8af81ab83c9f3b29078f1f55838e68d",
+      "02b3c61e117b281560a366027357c2c64217bc981713fe41e645bbef8c682613d4",
+      "020c1d0b35f49faa6838c4c7f321d61fcae1f4887774765b83dcc53c14632f4ecb",
+      "0279ee74104455ac7a61b5f5484cc94a7df81f2d5c48c6eafbc85e86ffec67745d",
+      "02afd46a1649b72dfaa225a27accfddd533cd5cb4a7d6ed57d0f636e9f45716f35",
+      "03b9916cfee9c8b3278e049fc7a23c6b127cd7c54d1847729bb91ad77e69e0b48b",
+      "03b46c9642f3f8c8f89215dc9cdddd2d630cc36286b93bdfbafd8f8e6f15b2c38e",
+      "03926de871fa43a49c4fe3bd9e00fc2fc77145d02276a907033a427f84790383e2"
+    ],
+    "challenge": "00fdc22e5bd1c7f2b93bc6e1e9d1d8f517eaa0193d6e7b717c869a5ed799867b90",
+    "response": "08cb7b3f5568d92228641bb8dd419efb3f51f9780760df18d8ddf744933758c8"
+  },
+  "PK_WDecryption": {
+    "Commitment_list": [
+      "03b2271519c101d8eb8a65f0695fd077effa32dca48e2608e83f255f4ef371950f",
+      "025f3741a65896477adfb23d056abe2a726a2ee9da0a56f7d701fde4d8628ec1ce"
+    ],
+    "challenge": "0097c455c5182ffb93f9f600b308397f407a39dd00b84435b7919b76238f15c1b1",
+    "response": "00e2f453a0a7b81e48e6f2fd394cc047331888f8ce2b9d75bacfbf35ee80366a4b"
+  },
+  "board": [
+    {
+      "H_sb_mx": "030aeada7541de20ca2a4e7fcd1feaec0fed0ea5521c0e484a2c0d36e07a378a2a",
+      "Y_tilde_sb_mx": "033df9bd5d99b9c9951dcca380f50f80c51e1b5fca9cc3a4cc3c5db3b167df7bd1",
+      "R_v_mx": "030e20ea3571916ecb6020dc227fbea929e7687d994b358809859cf707fd9f45e4",
+      "V_hat_mx": "038bfdbe599d3bc5d6fd8956caedb9ffedc0847c5059782136e911f71c8f3b84d6",
+      "R_cl_mx": "02d3af9ef21d5cc7a6d70510438314fb45a2c308fdf83ad3084ebdea49ca3f3f73",
+      "V_cl_hat_mx": "037549d569c5aba4051e91d8deee71c7c994103e08d097af8360834eedc5c258e6",
+      "V_hat_sb_mx": "03f7065002b220f67e3d5c798d3e4f514f057c0c3c72328a5a2d6d577ca6470043",
+      "V_cl_hat_sb_mx": "03dede751354ec9c3b9647d75997e59c6cadcb82d7d653d6d073f1cd2603ffc3c1",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "02d5172dbf7c0f83d3e66adfbc6f6d83b41e19e07cd42fc90950fc6f8d5c998046",
+          "03d041ac60a832fadbd2d25c931dc840efcdb44479e6c649112a1eebaf98edb9b5"
+        ],
+        "challenge": "57967d639202c3ef4f9ff96ce2fe48c4c623bcf8ff6bfd98447097f135725514",
+        "response": "1cce9beb179c29ffbd97a5276b0b5251a83def83837fc0dc906b8c105e943c5a"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "0307f905a2e6c371270e252e2fde27cc5b7b1561568615782209e11ba18fb0d0e0",
+          "02db0f4c6bff9c9f4e9f2ebfc8200a43cd326f2e69c8991722a6036dd5d16df23e",
+          "031f75f4dca48f541ed933c68a58ab33a555be4d26b0f237e2d0483a8eb82e6695",
+          "0210cb5d806e76c21bfc2400910b9e41a750a1d4dbae42c8511e9076cfbc8945a7"
+        ],
+        "challenge": "0083e75189a2037890b683dca8789e75f6db48c68930b98a08fd2dc59abdebd2be",
+        "response": "00db383dea484d4ac90f0cefcd995adaf3d35781dc1d4e3f8760386896ec7a0aa6"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "03bb319ee5e3262fc6b78501385193ef4b3051a1fc421b15824a28c8f526396987",
+          "0214b50da2189fb91a0c07966f09a85398490f3122e4482aef3f3de750001697df",
+          "03e3b9eed6189a2ff7244fe936d21f0c6d9700565a1fdd16d44b517be0d3ef3e69"
+        ],
+        "challenge": "00b9600c6c40a8072bb1283c8eb4f8c0455c8289d4fecc1aab10690d3af3cb922e",
+        "response": "483c59a1c215b9a3842b394958e74ba0ee34a7ecf25005756f01323ae5a06a50"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "0397890d1c401386cfd557beb4a931a339c8ae1d68659bd45a24bff5ee25afb648",
+          "027c714258260506c0102fb3b68544578727b52298f8a56ceaa95dcc5d19d7d4fa",
+          "00"
+        ],
+        "challenge": "226769b20ff9322e3ab98d6bab9b0ffdf4bd81697a11d905aa842f78445d4481",
+        "response": "0085e9c9b76849db46e26ebed7b35dd99a78432d6646a37790af9144bee6e227cd"
+      },
+      "Y_tilde_mx": "037406a20c86c50a6496ba5dbe9a2b9e512370f78662977138a1d7e4c13bb68fc2",
+      "V_mx": "0282f16d72d25d029eea58ae63426d970167ebdf78568f0024ff8c326f4be3ece2",
+      "V_cl_mx": "00",
+      "V": "0212ee3a60083dd6d6c450ebd134bbbddd41816cb52ee05cd5f4476b9246104586",
+      "V_cl": "00",
+      "V_name": "Donald Trump",
+      "V_cl_name": "empty"
+    },
+    {
+      "H_sb_mx": "039c1514bdb7885a828ad98cdc5f4a124df2a0aab773e8b21b06bde9628ce88631",
+      "Y_tilde_sb_mx": "0326ed82c010c588bbd3aad8cf5b63f45b2358f91132f55d249c8ffe40d50eb435",
+      "R_v_mx": "0215544797ad5d32b4d4756902b4c93a428b6a19251fc527822f5a677f6b535580",
+      "V_hat_mx": "02539d321e42b444d352feaa4f7bddc81b64d38aeeb67fb63e4b0fb23b97fa4067",
+      "R_cl_mx": "03c571c011e52895c83489fef6635c04aac2e5a2410fcd3053a993a0f19fa9a50e",
+      "V_cl_hat_mx": "03e8fc038370873eeff47ecc0a8716b7d10df85d38f0c472eacb69239a28d33810",
+      "V_hat_sb_mx": "03ec966778d6c00c0260cb67f7031e36ee340ff7a6db3963d7115cf7763e3f8cbb",
+      "V_cl_hat_sb_mx": "03aad22702976dcd6f2e95ccc4792f3a0518c91e68d72ca35e22f5f2095b3087dd",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "02a9a7528347e1f6ead8ca68123657394149f8a7890888dee7ef19328d712fffb5",
+          "031d193454166a3a1c0fa15cfb0a3177f4d1f857e63d124b818ce6c777b93ee8a6"
+        ],
+        "challenge": "00fca391519adc18d6eb3949db73e0e23d1ebbcd7fc4b6e1f797df877342e7e50d",
+        "response": "00fb4fc24084757697a0bd5fea705035e2c630a9f27b97b621f3e04b22aefc08a8"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "02b490403510273e570e305efe426c6017924836f67249eb7bda8a9696841fad8a",
+          "0313705f0e40c152e16314e6152d755fa132b70d65a5243c49b047c27a0ea383c5",
+          "029becebe033b9cc3cee3f32339a0910a6666ecc785ba7b4bbdd3c3cd3265bf887",
+          "03cfdb513f61d98576bc186137cd3d388cc150d33ddeb9518434cbaa0cdb000800"
+        ],
+        "challenge": "4fa40ed275eda922e504c770f0d3ec5541567939679d8575c61049a6a8070c98",
+        "response": "0082eccf33e510b743de0c86bcf12bff7cfb7f16e63652a518da70a91b27ed2f6d"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "03ad9f4c5e654b146a7b3c4d8c6c2c7939a5e2ac27ec56110aa7579e890f90b4b9",
+          "03cdc10839ec52106442e2949fa2430773ecf74926650209373bcab55a86d6adb0",
+          "025a5d63dadd32c34a500471f57287f4f2891928a8b07cfa8e3dcd78bf491b7b80"
+        ],
+        "challenge": "00e8c522b1eb477be0a87b8854fdc13262151b184981d36819bfe12b706e71afe6",
+        "response": "00db77761f6ee505abce99501384563f77ee7ffb650df2db90d8d7aaad2e179889"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "02647ec7625e076e39daf10bb82cb3a60d836e16a2bff6625033743e104baea30b",
+          "03823085cace2dc22553bb619debc553bbe1bba1ecc39c6189b982500324a8834e",
+          "00"
+        ],
+        "challenge": "00aae494f282fd9f1e2a0ee73c622e4bb77af4197bc91c1c4980e34b683694ad8c",
+        "response": "00d4ed58590b9e2777865589a465407a4d8923e0193f742e8781e5ec27a174e215"
+      },
+      "Y_tilde_mx": "024ed52b825ab22aa296e5983c9836f511e87bc4a7dc62d0a6ab5161ca0024a6f1",
+      "V_mx": "0263764c80999b2329fa1e699eb480be733dae8e064762a7161bd7dd20fcd1e14e",
+      "V_cl_mx": "00",
+      "V": "029354af81acdb4251c6f2c6a5c738f4c03cdc4f7102fc9c895210dc57519af96f",
+      "V_cl": "00",
+      "V_name": "Barrack Obama",
+      "V_cl_name": "empty"
+    },
+    {
+      "H_sb_mx": "0391f8528c7a2a87ffff310c71d909dfedd60a37b2e30d49c0ba3a879fd811a877",
+      "Y_tilde_sb_mx": "02def1be2e4f0c5e647a5d7f3b6ccf2281b741076501c1974512d82aa14c6fadc1",
+      "R_v_mx": "036ddc349f2612508683441d9dec95935335c515daedf6701e71432293a3f862da",
+      "V_hat_mx": "037d3354386b7a0cf16c8b3624c720543190b3ee78ea5747d6099159225d7edb40",
+      "R_cl_mx": "028a7bfac2b9ea03334b251fb83bbb822d05c59263cc2abbc710da2a35940bb908",
+      "V_cl_hat_mx": "03f3f2a23ebdc5ce4f28e9bc31ec2a66a93884cc9a6702b590bb1f6e1431a57ec7",
+      "V_hat_sb_mx": "0201dff0b226e2f5095fcce7f10a223a0a85cd4f084c706818d23ad8b86c3a1a9a",
+      "V_cl_hat_sb_mx": "02352f876cc0622148edaa1aa002240d56ca4a6cd5467d561f57b08c80d461243f",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "026756803e8f3255303e2904619f910913aa6729e2db1e801c5adc8c043114ec6e",
+          "0348d78333da3c43ab9bf1c316e55d5b60aef7d873430f108f0e837ba68e23a523"
+        ],
+        "challenge": "14d555914012a9b2db2d9a65a28eada4dceafeb3f9bb57a0c35cd2711d9c8f9a",
+        "response": "6cda5899e90ed0eaa2a52f63efa5ff6beef2e279a7953fc9d34bb312b56e62be"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "03028766c4d24029167102d9af8c0c7504837fded4a1dfe8badfc9f66aaea3687b",
+          "03251c67afd55766778ae6346cdf63eec944f494f89156bbd2aa50920bdabf63f2",
+          "02b9660363ec99fbf36bff4938d078fba91b34dfc43ed5f3a89884e89b6ff03719",
+          "03da3a8ba6df4151a4a8c5ea9b223bcd1602be07f5b203ec9761b629658cbb5b50"
+        ],
+        "challenge": "00cfd093c9e4b49bd7ccbf179f28f02e5661c0650b1ab043b8c61d2d38613ac53e",
+        "response": "00b088dcba757facd791580ff0d5af23693cff1a8b067e3c7e2b08284c93548204"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "02455c1491743469570a3276e5ebdcf0743f434fbf91739f2287a4933026b7fd13",
+          "02d5222c826aa0e0dd1478955edfdaff470a2883e8fdc441dacaf3af478ec5acab",
+          "0287a1d0a289d250fc1d616affd98fdf1213c110db36d8fd3dddb661e83dee03ac"
+        ],
+        "challenge": "191cf8b896641b5dac33883d71e6738e7cb498165ee67aae6e47134de787d360",
+        "response": "760e09f567a7a69f77cffea223cceeb11e8c3a5f83990655b1cfeb95f3d16797"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "034c7b20d5fe38cb0bdee440c3cddda1aac0c0be0bc8a0d5371c796b1011bb052a",
+          "02ce07ceb977511e2bf6bad1f61cab4f9b515640149645f5b52dc7a3b01b6f3f91",
+          "028f8a313c872819414f6d48e672234025e267cfae188f5e1acb699e685aae6836"
+        ],
+        "challenge": "74c13978c9b182c49f73c32715ed5e45dc7915c4b7e685b01b949e5ab215bc7d",
+        "response": "565bb329db14a45ec1cc0e6fec16f3f2a407f7fa1916c39b16cf14f89faedbcc"
+      },
+      "Y_tilde_mx": "024ed52b825ab22aa296e5983c9836f511e87bc4a7dc62d0a6ab5161ca0024a6f1",
+      "V_mx": "039aa6c80b115bc7d1f0a4d68a6014fc20914542567b48d6b6e8f8ff07887e9534",
+      "V_cl_mx": "0363764c80999b2329fa1e699eb480be733dae8e064762a7161bd7dd20fcd1e14e",
+      "V": "023385444c7e157c36d21c3e73959283a4079fd17ddd003b49995ca9e9ddede1c7",
+      "V_cl": "039354af81acdb4251c6f2c6a5c738f4c03cdc4f7102fc9c895210dc57519af96f",
+      "V_name": "Hillary Clinton",
+      "V_cl_name": "Barrack Obama"
+    },
+    {
+      "H_sb_mx": "03e6b6a2734753eefd6c3eda9aaadadd7504025342db508b4c8eaa8c584edd856a",
+      "Y_tilde_sb_mx": "02ad8b13d58b608d984d6aca27d514a5af30b9f54d8aa97e452676d6a8b321d4d1",
+      "R_v_mx": "021bc1c5b56e4367350350cae3149f7d93bbec321decadd8f605b2680985b95cf3",
+      "V_hat_mx": "036c27850e2b3435f8579a7a6ffee7417ddefda13c2026cc8e487e00201a564f41",
+      "R_cl_mx": "02464d6ebb731da31291c89ceccf14b96492fec1f818a6ff741cee5887b0cc3b9e",
+      "V_cl_hat_mx": "0218a0363fa2fdd528041406908fc208d5330981df20041528fd37446a475ba291",
+      "V_hat_sb_mx": "022ac5bbd91bff6161b45b075f4ae0c5b46d35dd81b967e7a80bd82fb476509ee9",
+      "V_cl_hat_sb_mx": "0267b8f364bf72b99af1beee4ace0ad85918c4ccdacb76790f58cc42ec954b315c",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "0350e52b3569824354e8c6768ecf7c22c24087dd47b67393b01e9dd149cb3292a7",
+          "02a768d37aeba487aed574aef0a324c94b5e25b16bd597ee16e21aa995587bff82"
+        ],
+        "challenge": "397e1a3a100b21f7a66b31ba35f2112f64fbb076df66f4395d2df2ac537e1de5",
+        "response": "6343048b37e81d0334609df4a2db8a608abfb29cc50fe5aeeeacdd6bc74a12de"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "037f521b4fc5d816a82a98f8d8852a8f1a04230a7756a27e9141f560d2692141d1",
+          "0302db1300511bf0456489f37b812574e3068aa17c833efaf0af449a29edf42df9",
+          "03af6164da89068a05d96d278a23a57349a7d6425197015b99ef1e1ace4b10dc00",
+          "03b813221f6b3c796d3414e250798c6bdf575caa2196d3fc3fa0715eee44e7a1d9"
+        ],
+        "challenge": "00e7673ac606edd6258c95cddf9a527c5dd52ec9b9724373062aa6883f71c89fcd",
+        "response": "3c0e81261b2521ffac60367a78fb8201f934650eda818e1245a179ffc7339e0f"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "032f000950e8c33ab565d18b2c1c4d924991587d4605cec6c742a9095b3b239b0d",
+          "03a670aa8205dd75b476353e8f8f58b36419c49b47b8589b1650e62b2106d68e51",
+          "0362ae1916343f530c68273121f7c6dc057f909c3e7a92aa8339206356a91f6623"
+        ],
+        "challenge": "19b1d96fa3b62cc9c77e2b75344237ebd3c37f7ee67d3810607cc2f6d61fd163",
+        "response": "00f55ed624d99fb1ee57c762301bdb4abfb5f4e36eb3a6255d05d3545b7c148995"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "031685143cda3d1eaf604bab7c83588b0ea1b20a0e714eb51c538be7814130a939",
+          "023999120587e6b441bb541be198b4e6ea581b90932b717d98b3eb606cc9572274",
+          "0267ea5ab993f33c1ba7e0fc14914159e94845620e877f0dabc1550c24d474ee7f"
+        ],
+        "challenge": "29095f34f04b288c645bdf6d37cccc9043ad55c573ae2ca2323eb35ee05d4368",
+        "response": "0085b44ebeef9b5f8ca9871a242beadf8aca4a2d2495f20d5feaca39f2e32e2a7b"
+      },
+      "Y_tilde_mx": "03062aafdab13b515e4aafb0df053b2afef4020fddcd9c5c34b78fb15dfa99c0ae",
+      "V_mx": "039aa6c80b115bc7d1f0a4d68a6014fc20914542567b48d6b6e8f8ff07887e9534",
+      "V_cl_mx": "0382f16d72d25d029eea58ae63426d970167ebdf78568f0024ff8c326f4be3ece2",
+      "V": "023385444c7e157c36d21c3e73959283a4079fd17ddd003b49995ca9e9ddede1c7",
+      "V_cl": "0312ee3a60083dd6d6c450ebd134bbbddd41816cb52ee05cd5f4476b9246104586",
+      "V_name": "Hillary Clinton",
+      "V_cl_name": "Donald Trump"
+    },
+    {
+      "H_sb_mx": "031cdb881ecc128a50019454ef95854e5723657bf4e0ec16b36a6a176ef44fa917",
+      "Y_tilde_sb_mx": "02282def9c7601a307bf4e66c567aaedbebefd12e62803ac4440e1ee502a8bf3e9",
+      "R_v_mx": "02eb1c48f627d8eadc6d84449474ffd0099e2b0ef28ae04e6c4fc239b2de8f77a0",
+      "V_hat_mx": "02bea17e4ac77ec092e8323fe8d2a55426fe8ae8f59814ed6d65980ef1652e6bed",
+      "R_cl_mx": "034990f087b6945cd12c35f3efa65a31adaba4801a70c09dec95e3c0fecb074737",
+      "V_cl_hat_mx": "0373351c2be512059c0b31435bd2db2331e7ff6354828197b9b0d4ceb45886e51d",
+      "V_hat_sb_mx": "02aee13cd8aa9d6f5ada22f58680defb21266a2f8b337c423062452a6088ad7890",
+      "V_cl_hat_sb_mx": "022c22dd7c977c070cd160437aeada9aec0c3bb89394e7d6ac94ef58da1e9d22cf",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "029a43aff34e619bc30ab5d5b61cc161e7a13f035e105a1efdbedcea421b62aceb",
+          "0309f6d6c824840f5094ee7f6f5ef8e35822196f450045f20a3f38752300ee9b36"
+        ],
+        "challenge": "5746bd10c10543a430918d37c41811a80ce88fc8ff8707ded15a11b1e1942534",
+        "response": "00dbee504c4188ab99c2163e4703a09e1d57fce3fdb224ff4121f9450446946a91"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "023f0c974af2c4df3273a7e1d8bab2829cad2a39a8b554ef6a49f4b1ef1291a1e0",
+          "02304c38e4c807b430ff3b12a5d3ecc8e86ca7950e3eaac922d69af68df9c454b5",
+          "0365623bfba0fd39e666d21366800a768ef4e49df312d8e4e2711d8001b705b680",
+          "02fdd94b625eecdb29581abf58c54afa8b13b09ab8c6aebcb6eea0dad40bf258d3"
+        ],
+        "challenge": "00e01583e822411c22f8edbb9868829e40e5136f3a8f6484ff8b982ed6401a2833",
+        "response": "00b0b0089c2addbd98ff4e4e915d7349dbf25de6b13050f7b6ef06c6a03afecdc3"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "02faeb22888f82d466c05b78fe539393e73939eb781f23c1794aa19adbe5c9dd9f",
+          "03ff5fe4760b0dab08fb45db02735881e76437a294f38ae568e40da320b47cf48c",
+          "0229feb35fd12992ad8e93fa12bd69cc418b59e63795bf795cb4a1c6812c983334"
+        ],
+        "challenge": "009e4fc7419dedd0c0511332beb5c44cc0fc1960fc2a7f9fdf1fc2fd7533830d20",
+        "response": "00e8887f47a3050ad19f98248272cc90e28d2d82482a152a0a835e7a5b87e1ee7b"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "02d5d6515357213ea634b9a8f164f3838d0fc3e0c86b37f6ec37c9c773fa70a3fd",
+          "02f835f022b682d54d4e68b3706b07f2522dfdff3482a51fb7a3bd4978d8b686c9",
+          "00"
+        ],
+        "challenge": "00ff48ca46fdda0a7f201cd21791278fed328ab96b1783117197d9c458e7fc6451",
+        "response": "00fdc028229d6a0c28976972eeb35986603808a82b76c6d230d0f12fcc61c5e81e"
+      },
+      "Y_tilde_mx": "03062aafdab13b515e4aafb0df053b2afef4020fddcd9c5c34b78fb15dfa99c0ae",
+      "V_mx": "0282f16d72d25d029eea58ae63426d970167ebdf78568f0024ff8c326f4be3ece2",
+      "V_cl_mx": "00",
+      "V": "0212ee3a60083dd6d6c450ebd134bbbddd41816cb52ee05cd5f4476b9246104586",
+      "V_cl": "00",
+      "V_name": "Donald Trump",
+      "V_cl_name": "empty"
+    }
+  ]
+}
