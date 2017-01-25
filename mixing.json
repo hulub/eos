@@ -1,1 +1,34 @@
-{}
+{
+  "PK_mixingKey_H_mx": {
+    "Commitment_list": [
+      "03d9749dd828c45f92af600edff97b957c5bdebecf607f889760254a4532f3e086",
+      "02e4e0c83c92e5571cc98c97329ef895805ecf87e09121e6adb3f8c35150c9d17a"
+    ],
+    "challenge": "01ee8496ddbf64f9b3f6d81096dd6109002bbdfed1e262aa73c22f807caa7f5f",
+    "response": "301b8102219406532374b535791dfc70e9bedab711cb5b29736bfe2e36001493"
+  },
+  "PK_consistencyOfMixedBulletinBoard": {
+    "Commitment_list": [
+      "02a3364c036719fd88508d78b1544bba3998eac0aebd45a4e2ddce9f93f4371799",
+      "00",
+      "00",
+      "00",
+      "00",
+      "00",
+      "00",
+      "00",
+      "00"
+    ],
+    "challenge": "00f08d870369bb544bf980e1f402ae1f28a864f0cba00016170b5cd6d9bef63202",
+    "response": "16ccfd73e8817b0ca7938385416d61c74b39bb1f4cacf1861b5d238e5a580091"
+  },
+  "PK_WDecryption": {
+    "Commitment_list": [
+      "02259044393d2e7093d3ee5a26604a5e3c116d30c1bde74d6374182a37393feb50",
+      "00"
+    ],
+    "challenge": "00e3f53a90240ffe11bb6f4178653161e0fc8b3a5f87850598829921d43a5a6fd4",
+    "response": "44d35c7bef6ac27d84aa933f9ac6d0da55191018d5628dbb7e5763c4557f00aa"
+  },
+  "board": []
+}
