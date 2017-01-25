@@ -1,2 +1,83 @@
 [
+  {
+    "sigma": {
+      "c_0": "00eab3763669d070238f4a1e3d046ee0ecd02b93b9f04cac0836d21b3472fa2a40",
+      "s": [
+        "008b694068faa6f4871cc0f6211294d4403a07ce7b222ff9b301650519861acd27",
+        "5e64e927f931781a9b6a1c6a6b152b009f7d9a148cf1855861f571e5558edae0",
+        "00d2e18c6f5bbe17768d504640be50125b87fffb2caf07d741a7f8b707213eb9da"
+      ],
+      "H_malleable": "024aa36c2ce9b2816c2360204a4a58d538bb71744f2939ae5d61f0db51647fbb03",
+      "Y_tilde_malleable": "02c08a2af2987ea5080d8f6881dcea8fdc3ac934412a6bc3e1d1ab71f05badd323",
+      "mu_encrypted": {
+        "R_mu": "0213204e3af129e91a2f7bb8efdf149c9ad80d4e698e86546801cb48c9e651b187",
+        "mu_hat": "00a9c7bf80c16297f5f10fb86e3f1c4ce0362c16c570dbfcad707901f35b52f72e"
+      },
+      "V_encrypted": {
+        "R_v": "02d3617a2e31e02d7f9221562293e7e72e7830030dd73a7358f92d0de5d18ff722",
+        "V_hat": "03ff02f9213ff28f7a4c0c7bfb679c54fcf9a75d548ba882ce7c027b00ff790977"
+      }
+    },
+    "valid": true,
+    "DPK_validV": {
+      "PK_list": [
+        {
+          "Commitment_list": [
+            "0364491bce8b930a7e89d40fc52e30039b2e94667815f8d46dec4439ebd59251a7",
+            "03718dbe8a257fc78a02671a51606148977eb4c28ca5c6f5ab968b3cc94b757efd"
+          ],
+          "challenge": "00d7e06464470e70646c4466689987376abee14142350f399ca72db60627d0b3f1",
+          "response": "3ec105c20218460983d04e269bec6fb27ec9fe00cea34109f4ac98b82a2aaba8"
+        },
+        {
+          "Commitment_list": [
+            "030b5651da374f2bd3958dde00cd97e5688d9af0528f2c1709013c87f892c2c93a",
+            "02c6636ad368594f4a220b025a5949833da0138f3cd07ee28f711fcf678d41bac8"
+          ],
+          "challenge": "008c7f1e4e06ba09a0540c4520c5e5f41fba3b4e5376d5e56f0c7d1fea48371b1d",
+          "response": "00fd8f5d7d21640b4b56a6ccbb6787f2a07d7724cd1b1241c14a5fcf310b55e83e"
+        },
+        {
+          "Commitment_list": [
+            "02328ae1a7664675efe7b6be6dcb5df076fb216ce4d9a3b59d15f7d1b98cb67559",
+            "023a5f50930155e261a99f5dcb200352819a86b4d973d7e8b121d3a4abaef08614"
+          ],
+          "challenge": "0dd1411a88af7139a588c7bebb560a77df64cce99488a4c4e11bddebc547c232",
+          "response": "00986c92919ccf3d612100e205b11cd6732c2fdf04c3cfaff34d0de8a5d588501c"
+        },
+        {
+          "Commitment_list": [
+            "03c1ed5550e4bd3db7047eaca2d71bd9acc5fca7e3844d5d443978ec9080dcfee7",
+            "02ee0b114700b8acabb48d55c28a84c2b4d3ce03e179aa57130aa6bf4c7258bf67"
+          ],
+          "challenge": "00b071a767ddc2b3e37f0980717314de9a7ac3e761f75a891e73158bef025e9ce1",
+          "response": "008380fd8089e6fd33e3c35d76c175881e858f0c7c5ced885fc20aa5497031f918"
+        }
+      ],
+      "challenge": "22a26b34b43a9f21e4e2f3b98dd8149f5de78a13d9370c77883782b19741ab9f"
+    },
+    "V_cl_encrypted": {
+      "R_v": "025d517f06a6a041fa5f328e570351b6ec88bbe562f936603beb18c7047f7becde",
+      "V_hat": "0238c589c5242fb84582e5385eef254e55f270ded44b41d38d7a9447f2d198eaeb"
+    },
+    "PK_cleansingKeyUsed": {
+      "Commitment_list": [
+        "02fdb8ad9d58f53bff10693dd6243ac7cfaefeb99a8bb82ffec25ee3c62cd549e0",
+        "02c97230f5e6dde85ecdb8c6aa9018ebd76d5f23c9b7b97e663f07656dcff97bc1"
+      ],
+      "challenge": "00dfc58abbc98c76ccfbd14dd4b13bad43e237214d36771d71ee31ecaf5c1f47f4",
+      "response": "00df4c758d1003dc54b0522407c7bfa77831422b8b9c5199f6df7cbfc5802cd8da"
+    },
+    "V_hat_sb": "02fafddb6b6f390dfd9a68c438db94b5929843dea5ef75e2085733ad56455ee6de",
+    "V_cl_hat_sb": "03f02e5a092827bbfcede5f337252618f8259f227e5fe298d56ebcc0ee8e953f39",
+    "PK_sigmaIntegrity": {
+      "Commitment_list": [
+        "027ea4364c8e868f9dbe946bedf0fff225c2a4aa644ca6d92873cf2187d3ac15a0",
+        "02d26aa43aa830ed6e281a3518a63db74ea54998ef768ae3e62c1697d2968aecf5",
+        "0294736b117223707b64f6fbdf0d55aeac0b784b6a52d7174308357bc566047380"
+      ],
+      "challenge": "5f8d96f85bf6c70fd4781c77c55990d4d1d4466e50e6faa2701974d8fda8c6ad",
+      "response": "00c55582dd0d159c289b900cb0a55451b109ea3b263927ada8e1dffdeac6659931"
+    }
+  }
 ]
