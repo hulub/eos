@@ -13,19 +13,19 @@
     "Barrack Obama"
   ],
   "PK_electionKey": {
-    "Commitment": "022446a882b931929c4176ca5763c56605de981c33ba2d4e752ecb8c8673f2ad93",
-    "challenge": "0c849f37e5bd90259fe4fb2fc8f27ad5b5724fa2a883ac5938fee798aa6db285",
-    "response": "00c58e57981554fb48a018a5af8f710da275a1404b4aea15a6bc566bd12ee22c00"
+    "Commitment": "03eebd4393795383dd3c0a94409c3a681e55c87cbcbfd34249e5c1930f9a87cb54",
+    "challenge": "2f859d5cd30c18c6eb91fa8f6f32bc0f4e08183ccd8e7ff3ac288efd312cbaf5",
+    "response": "693adb8b5022ffb2c29246a15513788ec14f9fbd0f79874db07bb588bd6cd08f"
   },
   "PK_cleansingKey": {
-    "Commitment": "03f97d024ef21bc48f7e0ab88e4ae6bb73b44e4685faf42bbbf903de2e551c77ae",
-    "challenge": "0bdc7b776a44952bac5ce61e78b2fb219c3ccdf3c917ac73319df12ddbd87def",
-    "response": "50d1c9971d79d78fa11c89c95c76bf37b049db91b1c70b59bb455396e2c24e96"
+    "Commitment": "034fb3ce5d16217d7cad7b187dca703eacac22276a7bba4c7b78461a9c871d2325",
+    "challenge": "00e380b88ab84d2ce745d343b6ca92b040bc7766362d81262dd9fdb862c10aa77b",
+    "response": "0092382a724af5a0ae673daf93eb7cf0b6a733d3afef30bfc4709f7afd73d9d5f8"
   },
   "PK_mixingKey": {
-    "Commitment": "03046d28d8f3db84e6964cad28fd31aebca8f636679311a8dd679f08c51c698f6e",
-    "challenge": "00bdc460e98ae830f80a31151dfcdd46f9e1a295a95542b373080e0c63d8ee0404",
-    "response": "00c452104a02ad9490cb88463ba8804190c713dedd3641541b0d01269ec724b5c0"
+    "Commitment": "03c46ae3f50528cc0dd7f51c0e276fddf6e93e3eccafbd31d338bb192a4a1bebc2",
+    "challenge": "7df27f9ef79c1121fad83f1705d273dbeb93483d4cf0c40da777cedc4133a6b4",
+    "response": "0d43a4518c6f5a2d7b1f14a613ac8b2ed7ff94c38f8dd5ecb6a301339fca34dd"
   },
   "H_mx": "02234a353a71549e16ee4d2a4658711d31653026dd65d6c531f283219238f939ba"
 }
