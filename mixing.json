@@ -1,1 +1,141 @@
-{}
+{
+  "PK_mixingKey_H_mx": {
+    "Commitment_list": [
+      "03db91a843a8d50dc4b9461c90b0ac8733a7982b0865a1642a82e84bbbf8e3dc16",
+      "03b8bfe7249e5249b5fccdf9df60bbb255febda75964305699c38f85e319494c35"
+    ],
+    "challenge": "25d4b8a7033d133d3f01a2bfa6003d501003ecd8e472b8cf488f49249c653a7e",
+    "response": "7c1d98f753d6b844356168e0a5da639b9ceacef9cf767d491442ab2919829088"
+  },
+  "PK_consistencyOfMixedBulletinBoard": {
+    "Commitment_list": [
+      "022c0042d7c825e7d434fa54da317c2f4b2b08341a71f168f41c8316894aa70e9c",
+      "030d79d3b2b3319137e0099dadf3828a3bd07799d60a8ef015a385c574b041a95e",
+      "02e039f422d5c1b27f0bcdbb0918cb95d8e9e67e63410bd7822eb2f6e76b7efb71",
+      "0224870f872d050a6c7594f7c39d5dd7305da27bef49a535e0a664453a8475e037",
+      "03916d8bc90e29498f3626404cb2dcbc81ebb081bba1c7bf013d2f3ae13d8558b6",
+      "031c629c2e71b7304d93b98de78ffc783fbb515a8eefe3be97f50f4378f01637ca",
+      "0221b4fb7ddfc843be439b9438ecaaa2aa1e9ff0983df2870e4493477e61e07fed",
+      "0225e4c727e209b66bf2e6cba5de640bff56de6f7433ff06906db7a4b75447e85a",
+      "02c7d1d197cac01ce13bc76ea9e310436e89dde8aa5ac71614d1551fce5109cca7"
+    ],
+    "challenge": "5bbfe48bb0389cfc70a1e340f3938b8b1198ca88523ddfa1f05e01652e8c0e11",
+    "response": "00efcfafa3d5060afb73589bf49cfad53dfa6f4c0f3306ac9da6c0ed90111fb8d6"
+  },
+  "PK_WDecryption": {
+    "Commitment_list": [
+      "023b47534cdd7047de393b362e775be2ab72ee75d5fd6d3624da558c89f95c0e6a",
+      "02ce13b90d095c7c32ea7a492952840f1366a02f96188b71109d235491a5c81fdd"
+    ],
+    "challenge": "1ff38a20e5d85a6b082cbae0efbf95a28d6b82c72590ff5c2371813f3c67b986",
+    "response": "00e0ba788463b3e1d0319a1e3a53ea285239a57d1020851e70b9cb10f26e4d9cac"
+  },
+  "board": [
+    {
+      "H_sb_mx": "0361cc78479c8cb013dedf2ea963efbaa5abbee867845515fa817bbf04c3b142b8",
+      "Y_tilde_sb_mx": "02f38456d4df3df4603ddf8d1fd6fe0f5bf254387b6f8ce6aabe359d0f3d631429",
+      "R_v_mx": "03e047faa58df32d68ef5d1fc38dba326f688b45411c8e2c0b2c1c9aaeea1c6487",
+      "V_hat_mx": "03317bbf13c40069f2c02a8105006e5309b5ce8257572170b729d3fa31187305fc",
+      "R_cl_mx": "03e2ee54318f233657988a4e02c98e09617b6a1156253e4d473c9c0b180eb33dcf",
+      "V_cl_hat_mx": "02a118bd874562163ce0d5197a37f485140ca2934ef74a5ad47eaa78441eb03aee",
+      "V_hat_sb_mx": "022fed8a65420d58e05202ea9a84800f3717cbd55370feb3b9f729548a037c1120",
+      "V_cl_hat_sb_mx": "02c28ed7f108c3963c82bc35f3c8a533d18d95c17983c9c6f123aaecef795648de",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "03ea6f5f0021f75cf1dcc8d920d68bba1f6280e5cab255cde3656ced5e4c56c070",
+          "0365dc983a440640a6d9a01f6b6aadce274823a0a4e2adcea1edb2c1ab72b39dd0"
+        ],
+        "challenge": "68a17ce57474c04183048b506964c2cf947c9da7894272374c6858d6b2a897fb",
+        "response": "67376b1dcc136f946d45e7ce6f765e05cda5632d349db5f808d6c5bc7765cd24"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "0247b5e8e51881bb862a679f1362a3a00651458f28675c2bd767138696d5fe7aee",
+          "02306589ccec7763d73043afd414c97aed19e51b83bb7245cb43210a90efef8d5b",
+          "03dcfa8f2f9e336885e88a1e8cdd49d52a20e1a73b529944c0a06373ac5dee8340",
+          "025ba204c0780c34d6516a68deea3ec1937e95fb18b7d4327e2028adacba389bb2"
+        ],
+        "challenge": "6e3ef88f651823df2106081453a414f436d81c48ea00690a835bd8e29d8a43a9",
+        "response": "0088b765fe7958173855475bfe7ae9497657e290c954b6e53e91a4fc87e4046192"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "036c92151b2af412dad23506a77815fd74e143b1d634b57d26a026772682698704",
+          "0213a7a95ac850a8025d766a4b5b800df2200f267a75ddb3eaa1d93774a4b7eee1",
+          "03465ef573afb4cfe882f19d102bce0b5d7b483bc2d46d402514d4666a6c3b1246"
+        ],
+        "challenge": "00dcdbb72f02af0d5195640dd03ecd55d9635661e4b3a187b905a07bb3b95745",
+        "response": "1d8bc543b2063c8ec19e500f8057af660a68d16d18d269e3692d964f5ec7a057"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "021838b38c6ecc5730a5bf0266654857755de9c45baafd963cf58cf87e9472b4a0",
+          "00",
+          "00"
+        ],
+        "challenge": "00cf113ce7965fd6ad337e6ff49bee3b6ca4ee3b4cb35f26c063c8db599edcb81a",
+        "response": "0b7ebc1aeb58126f6be5c2e696fa27f5eeb9773af20553d59e390110d4cd3bc9"
+      },
+      "Y_tilde_mx": "03fe566a2d0a6da363a294472b4ddd02862853402e39c12cfc92716a9146ea17c7",
+      "V_mx": "00",
+      "V_cl_mx": "00",
+      "V": "00",
+      "V_cl": "00",
+      "V_name": "empty",
+      "V_cl_name": "empty"
+    },
+    {
+      "H_sb_mx": "031fcb5bc79b0cfa33c34e5f7a1d7e2c2957c54b51c3d63b5af380307f9f5a298d",
+      "Y_tilde_sb_mx": "02192ab3562e1d313452a246ceb89822e1c18761225fbc6bea59b81483406d656b",
+      "R_v_mx": "027903d4e1a5411df95645043253f1a094452ff4bc42be789f2c2d6e265f1ee715",
+      "V_hat_mx": "023a9e94b78e5541a7359423c6a560f7b6eaeb43a142c143691fa6a42950282c91",
+      "R_cl_mx": "02c9000563ed629a746b1c49ca44aedc2c34269d93200b80715450f1b35ae8d403",
+      "V_cl_hat_mx": "0219b255c64e0d2a9044d014f3f450e7f1165f5abc701aa0e3198fbedf0729c142",
+      "V_hat_sb_mx": "02da890f2d39028e77a938379bb4072c354f2506ab8444d54986db6651d0a508af",
+      "V_cl_hat_sb_mx": "0372e8fd49fa86772904d2201614d405686327350308c4c1c3c464498567607fe9",
+      "PK_cleansingKey": {
+        "Commitment_list": [
+          "0299a33e7cc8925b745e282dee8d741002ed5cf6c6ea171e3677eea9104f1577dc",
+          "021de58429621a00fa72b86faba5d11cff62295819cb8e12505c876975862d4bb2"
+        ],
+        "challenge": "009eb7e140d3adc68cc1651a7c95d6a7e2fb5694482d6ae03295f9700aae4369ce",
+        "response": "3939a5bd8b3fdddc227995138b09d6e101a0a7fb3f5a812c999c2d8abc898125"
+      },
+      "PK_sigmaIntegrity": {
+        "Commitment_list": [
+          "03351769f34675e299d269a4a0e3714d7a7eb128ab02bf6c3b84a97644edf996fc",
+          "03b589f6d81e7cd3bb26fb409bbc00615935b147968ad68503359a2273be66970f",
+          "03f74833033e17a9c6bdcf8c1d999ddac281421856f09dbdd456bdea11412e96ae",
+          "036edf49d7ce50f9b407340cfb0e54fbda11858994d836f41e080f39c84274f419"
+        ],
+        "challenge": "7f5ae6e627bc1c5d25236de32b3e0775a99ba4fbc281a19c93df57dec72ffe12",
+        "response": "4e5081b609fda410ba0d8d592116d10ab167e7bdd805616da9864440f1f3a06c"
+      },
+      "PK_mixedVoteDecryption": {
+        "Commitment_list": [
+          "0262a7c43bb2eca898e27d2178ad957986b655fdcf4de2b98ee2b1350bac0c3671",
+          "030d2e7b7d014184207ec66037207b48eb5f2b0cec463bbb6584c8e9560c386a9d",
+          "02596b050cbe3e72e1d60f15d89b25e0f2a489ae4cbe072f974f8fb9a13cad935d"
+        ],
+        "challenge": "140d47c4955da915f1f7d69870a73d5e22e63fc3dbe7ecbffd85b41627ec437d",
+        "response": "00947043f2069794b0616d5a25da1b3ca6545fb5901e270f4dc97dd219e090552c"
+      },
+      "PK_voteDecryption": {
+        "Commitment_list": [
+          "02ede0b6d0a973c8b62139e86b5bd20088a64319c3593378f0f9ded5cb2598d777",
+          "037afc3a88422a163f1ee0bab723b65a0b6ff8b69b0f8bc7b2f18ef0b6d3bc61a7",
+          "00"
+        ],
+        "challenge": "185d8c4fc2da4d0a99249bfcc5cef77cda6ac05cbe668510379d760213d25559",
+        "response": "0096b3d1b654da115d78314fa1da7a12fa46942c06b9ad926f16802602c3f135ac"
+      },
+      "Y_tilde_mx": "03fe566a2d0a6da363a294472b4ddd02862853402e39c12cfc92716a9146ea17c7",
+      "V_mx": "02c50b485e58f16d680b7c3ab13ff9d3f8e4ce73a2295d485fc0e2e7634e8c432e",
+      "V_cl_mx": "00",
+      "V": "03fb4af0f1be6e5f3b9f6199b93478b8f961262bc17b153825a9f75b4ced413a30",
+      "V_cl": "00",
+      "V_name": "Barack Obama",
+      "V_cl_name": "empty"
+    }
+  ]
+}
