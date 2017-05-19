@@ -36,7 +36,8 @@
     "valid": false,
     "reasons": [
       "PK_correct_enc failed",
-      "PK_vote failed"
+      "PK_vote failed",
+      "Ring Signature validation failed"
     ]
   }
 ]
