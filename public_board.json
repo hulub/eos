@@ -32,6 +32,11 @@
       "commitment": "0330881fe6179dd0a5c542efcacd4faf314bef163bd731efd90983289b587f4dde",
       "challenge": "30881fe6179dd0a5c542efcacd4faf314bef163bd731efd90983289b587f4dde",
       "response": "30881fe6179dd0a5c542efcacd4faf314bef163bd731efd90983289b587f4dde"
-    }
+    },
+    "valid": false,
+    "reasons": [
+      "PK_correct_enc failed",
+      "PK_vote failed"
+    ]
   }
 ]
