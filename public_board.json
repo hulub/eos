@@ -35,8 +35,7 @@
       "challenge": "00ed5e6a34cb2a150167a956c27fe29c3edce61f32c2dac18891eea9f0881a6931",
       "response": "00ca330fce70191affc85606e697dff785314187feae5d35767ec45f3d1f75af62"
     },
-    "valid": true,
-    "reasons": []
+    "valid": true
   },
   {
     "ballot": {
@@ -74,8 +73,7 @@
       "challenge": "00eab61aa0a9d50f96ddb4a764bcdfae48804fe8fe9a0bff524f10064c92fe57ad",
       "response": "00c905ff13bcfa84e9baad09e4658e574e903220633bca09e6f885cb1a642c4ad4"
     },
-    "valid": true,
-    "reasons": []
+    "valid": true
   },
   {
     "ballot": {
@@ -113,8 +111,7 @@
       "challenge": "00eab61aa0a9d50f96ddb4a764bcdfae48804fe8fe9a0bff524f10064c92fe57ad",
       "response": "00c905ff13bcfa84e9baad09e4658e574e903220633bca09e6f885cb1a642c4ad4"
     },
-    "valid": true,
-    "reasons": []
+    "valid": true
   },
   {
     "ballot": {
@@ -152,7 +149,6 @@
       "challenge": "00f8a2a958127e8ace3ac1a6a43b3d9d15f731ddc128d7702426686ea20fbc0545",
       "response": "5c3c192dbdde6ec690cd1612acf3b865b7fd2d01eb28c2017dea3591e19333f5"
     },
-    "valid": true,
-    "reasons": []
+    "valid": true
   }
 ]
