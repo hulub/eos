@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "ballot": {
+      "color_enc": {
+        "R": "035fec5f296abfb0de1f045846476209e9c206e8745063bcacac7f4a3788e5b295",
+        "C": "03637871da13de539dab881e27f4e6f000e26db6b54a90ea367d6e4ba92433c395"
+      },
+      "eID_enc": {
+        "R": "02db6534b88fb8a2ad80e76721bd529d9d90685c3e5f67579084997952b4111d64",
+        "C": "038285cac7358a636d69edeffbb57ad4c273dc3c6415ab71d47fdb46033482eed8"
+      },
+      "vote_enc": {
+        "R": "02ff74e271b89dc0fda6bec02753a487248329921adc401594d75b573c8ed6ee4c",
+        "C": "031ac906bb9563e28487ec470420a5bad00c7aa71ed60169729fda3e47c4810c78"
+      }
+    },
+    "sigma": {
+      "c1": "c6aaea5096c113eaac7db89bd54dd362bc6dd624696ddb3d569b06be9564e23e",
+      "s": [
+        "ffc9b31f87ca27a03bcc835c6e55421129b629eecce2b9fa00f3fdd1634f5453",
+        "fbc3f9a5c40b7c8c112b4c4431b547a27738c2326e4cc8665243f00c957a7d97",
+        "b4e2eb53eb57260706fdcaea29cb76f1a69fb663c34d401cb9b855351f65e018",
+        "49740c08da50863208d54b0e6ca7fe56a0dd2d2056532a764f9e125c40a493a1",
+        "85c5e8a4f179fc58e4b51e35e92fb9d3c223c79b45d225f4dafb5325ad067d2d"
+      ]
+    },
+    "PK_correct_enc": {
+      "commitment1": "02ab697a1adb0c23d203b2e27c949570f58284f109cd76c2f33da97459a143dcfe",
+      "commitment2": "03547aea964ba534d56b5b9ad920a39e45f273d516f766bd05856b94a8c7d1beb5",
+      "challenge": "c142adc64ac2bf4e9a7a9bf0e98cce47f645022fccbdf54f6e7df70b9416f61b",
+      "response": "0750717afe6f60dcec7641602cc4b697a2bd6973ee805199c49bb08ceb14d18c"
+    },
+    "PK_vote": {
+      "commitment": "02d6683306202053f1ad929185f7f8f13aeb47130c1b5ad18bbf7ea479bd984e88",
+      "challenge": "56d4680101710c1fb0d666a211822dabee6dda6bed861769532e09267c6dd984",
+      "response": "db68d93ea848847f0db6cab836a9351af1525ca7eb5457bf9ce11815b920266c"
+    }
+  }
+]
