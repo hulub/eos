@@ -15,7 +15,7 @@
       }
     },
     "sigma": {
-      "c1": "b6eb18d466f69015234d2bfba09cccb92e56a9126b1667d48c54c288901ab5ea",
+      "c1": "00b6eb18d466f69015234d2bfba09cccb92e56a9126b1667d48c54c288901ab5ea",
       "s": [
         "355285d3e3d4c4d8031d22ba6cc1ce0f6e9900de82ee873462de5da0fa85fc65",
         "6d247677ea242d373c9e8b68869a79fbf3905e0cc118a887a681e69e42f08d60",
@@ -27,13 +27,17 @@
     "PK_correct_enc": {
       "commitment1": "02a6d8a86b9167079554cbc101cf992842579fb797b01e35882b1f94745d6ff53d",
       "commitment2": "029c396b06d7375680333ee2fad1ac0dab2317e9954c73e77bc96589f42ace573d",
-      "challenge": "e0f647a12cae01f63c33b866bddfe96806203e9c8302e5e63b4d7cd263a94baa",
+      "challenge": "00e0f647a12cae01f63c33b866bddfe96806203e9c8302e5e63b4d7cd263a94baa",
       "response": "47a08d9d0eea689e7559164d3bcffdf14166397a5c6544571ca8417521758fb9"
     },
     "PK_vote": {
       "commitment": "03e9d717eecbf3c696b18d7284b0f258419c42f26b5f19265ad0ceb38d967e3076",
-      "challenge": "ed5e6a34cb2a150167a956c27fe29c3edce61f32c2dac18891eea9f0881a6931",
-      "response": "ca330fce70191affc85606e697dff785314187feae5d35767ec45f3d1f75af62"
-    }
+      "challenge": "00ed5e6a34cb2a150167a956c27fe29c3edce61f32c2dac18891eea9f0881a6931",
+      "response": "00ca330fce70191affc85606e697dff785314187feae5d35767ec45f3d1f75af62"
+    },
+    "valid": false,
+    "reasons": [
+      "Ring Signature validation failed"
+    ]
   }
 ]
