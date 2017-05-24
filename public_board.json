@@ -37,5 +37,44 @@
       "challenge": "7f62d0d44e6ce38fd771b80acf914335d350973796a26a7797540d19a87d0834",
       "response": "7ca9a01b2ec35a32742c9e70d50e0dac63dd082f53c6da3531d0447875396158"
     }
+  },
+  {
+    "ballot": {
+      "color_enc": {
+        "R": "03b06aa5a66cd3139b8406aae5625f53fb50b76f14e0611ae901c6e48b36e7d941",
+        "C": "032a8b06fbe1c7c62b7712712985d2f40001b5c6faffcab3bd64c9a9f8f0bbd103"
+      },
+      "eID_enc": {
+        "R": "039e54f650edd0ab4e89f549f4c4664c823fcd3a77350146ecbfa32113ba5ca5be",
+        "C": "022e1232e59dd51ca76b96dffe01925548eff43bb6290cab70224a4e1a67ddb04f"
+      },
+      "vote_enc": {
+        "R": "03d2eebe0478d73e5b7ef8131e12f8a837a70d321b59120b73997b965f03b99689",
+        "C": "029ee86b40a95e8e7063c68377969e8624d1d18a194bbfdb774405c81ffcc37b60"
+      }
+    },
+    "sigma": {
+      "c1": "40228d606e3565e46f7129ccad026894c7cf14cd8d737ecd6a8729a8d2ed859f",
+      "s": [
+        "b4c29ad42229c9b2ded9cd21fa0abdb9bf06f0cb9e23a339daf08429115f883b",
+        "c48ffaf120d93b5b5b17e6a7ef432645eeffadb3b5806b0705729ec651d530c6",
+        "d4be1a1ed37ba87dce6f5338a3b62c02638eb0b2c8f19eb50daf035d3f75adc5",
+        "19867adafe469601c8985636a9796db3e0bebabe4481df19f894708af0008a3e",
+        "492f8363ece139f2460fb384534c473ea5f74d2a80846fffd2371be496cdc49e",
+        "a7597c861ca82cbc226d5065e96be2b655f90eda3758918b221a070924934cca",
+        "7573bdd992febf839de0faae6b1a2bb87de009a7ded578bc2cc3ca7f0c9647b3"
+      ]
+    },
+    "PK_correct_enc": {
+      "commitment1": "03046882deb121d2ceb67758f4cd5cb040ac5360b539b3294dc76204cfa4568f4d",
+      "commitment2": "02abf5e94dc11c473924e859fbeefbd53daec3867b63e462c06a7cd679de2749cf",
+      "challenge": "ddfd654d8ec966369f629432bb18f37c428693e92a12317d0c3fc81fd9e4cfdb",
+      "response": "c637a0be08a8addd8576793659b72bb3e39d82e10bd6cf55f7a1346d62d6a598"
+    },
+    "PK_vote": {
+      "commitment": "034c6090f92a15f0e2c6a0803e8b8a5011f02d3d76f7526c7b63b2349f29e5ea91",
+      "challenge": "9ee35ee54757f6c9c384639e76b15004681ab606184aeb69876e567100522b98",
+      "response": "708d3ac855abcf4f9ce76e5e208cfffb49f7b6da3e331770148efe0c1347d114"
+    }
   }
 ]
