@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "color_enc": {
+      "R": "02b4af680b36980f8febd0241478237c47d466b76a8bcb2823af9bb62ee02750a6",
+      "C": "030ea249aba0e97e0a13100381592b3da282ca6721d91aaeef1ba807b5bf311527"
+    },
+    "eID_enc": {
+      "R": "02a60d823a3349cd77cbd91f4815d5806cc2c39e323a44c98fa6eb9556e889106a",
+      "C": "022bcee53ac212677f51392830877357a72f03f782729cfd7f1a1c39cad98cb777"
+    },
+    "vote_enc": {
+      "R": "03dc19ed6870e6e5692144fc44599b30bd78e610c052426ea33ba5646efa29150f",
+      "C": "037e31fba4fdc859663024349e29f7c46afbb89012a7bfc59a2e12a0ba2c3433bf"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "02758821ab245771c77910a660e3486bbbbf07cc21d16fbf72537e6295143f8ab3",
+      "C": "0322e54e18c8ad5f9ec9b83f0cf903f525823e215c4d23d066fb8e8dd14e58fd70"
+    },
+    "eID_enc": {
+      "R": "039cfff37206c79d40b3a706d0622a16065d4d68505ddc151e66e23e35658bc7e9",
+      "C": "0359235501f998177f70ae8f5c083d28d739281c38cc1f0d1f75691eafe8617082"
+    },
+    "vote_enc": {
+      "R": "03e82f605205b14faf8f25fb472cc6427873215b9359862a27b9caca94e93accaf",
+      "C": "03930fdb911e034e525db0019b868a594aaef7ca2aaf80c9a4a0e1080e8959f53a"
+    }
+  }
+]
