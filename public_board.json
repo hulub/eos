@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "ballot": {
+      "color_enc": {
+        "R": "037194f0e4e11dfe846e683a24f3073eca8a7bfb046652df457dbcdac6d53bca8d",
+        "C": "0368e18447df318e7721cb803ea2bbe4e520c147cbcaa99959f5063bb0ba312039"
+      },
+      "eID_enc": {
+        "R": "03ca16681658d11420c2a792de6e3581936323b1d66f5f0aab64d5672ae8266fe3",
+        "C": "036bce31c8fcceaf5d6c0c6b213213d73a7b17630ead88a70acf1d915ce89fa2ef"
+      },
+      "vote_enc": {
+        "R": "02cf56552f6abb2ada07e63726ca15c35ec43f2ee7488bb1f226b9be1596a95231",
+        "C": "03171cca3944b8da5468e069b4f43aa54b6c6669b27669f2e55afe804b92598143"
+      }
+    },
+    "sigma": {
+      "c1": "6882835dbcb7555d7cee8dc55a47bbf343d448dc50b402efd11026ebe8d22208",
+      "s": [
+        "e4ef3e8dad81de1f6d970c1553756b5f73907063abbb6d7702a7769ea1dfa870",
+        "a3077b890288465e9ead0814c14b03354e76354fd4e9e08b6296b76296956fe3",
+        "88baf6f52368c58ca5df93caa081e270f9427211ab979e79939ef7991584e232",
+        "4ac6e8e3b755f6bcd11707b881f65c51f3e1e2a8a654e9fc5e6e414bb92eb68e",
+        "1d9764ac5a84c5acfc3921aacc4e40e7cfff3abbbde60d2c382f8d52f21ec7c3",
+        "e1029f3e2232b7ec776badec1a22d8cfc0426a107200eea6cb29f54b0c355774",
+        "73b02a6f555a9822fc5240548de7a4c2bd018a46a3fd6cad9684b91104479b2d",
+        "d0875ba76dcb938255bcd9683c8b63a209c2aa6bf529412909b9d166d8b187a8",
+        "d441e10763ce45dfc0e7480eae79f915ca1decc8bcc8c3879ab48dfd291fe5d6",
+        "c827fb87b8f069049ce281edc3d64afc739f27c46cc399daabca6843df452267",
+        "4a573284c645ca2a75a6715b0ccfb26036386b441da8936cdecedb5ef840751d",
+        "8170daecbb2026754838d1c38f6fc632b1e83e109e30b190583959c9c433e61e",
+        "da4d2117cdd5cd8b9b54099670358863b84b3be4531c291523be6c1f2f9ac31a",
+        "2e92aad18efd4ef0577bfeccf367e3923da9359cd1e8b7fd80bf1d9a92a6813f"
+      ]
+    },
+    "PK_correct_enc": {
+      "commitment1": "0338308bf92391262918ea622b03cf2bd0d231925eba191b0e6b96c1948d9c4597",
+      "commitment2": "037a6f1f1525c4a39250f36c1e2207fe8b809977c820196645799f1d8252684cc7",
+      "challenge": "14f3ee01cf2a4f73dcb8de32c907768737c974b54c9def01dcce69fcf240c38f",
+      "response": "e50ab8765290b57c524b3ea22d0387e44fa2d0a8a7e6d7a3384d370002eabd07"
+    },
+    "PK_vote": {
+      "commitment": "036e75fea7efbafeb852be8595f8f365af9dedb5cf1be3a549f32dc8662cc0f3b8",
+      "challenge": "0d20bbba481dcb5cf7cb7265167161dc1e9d5fd4f86576baad929afd421581dd",
+      "response": "f5b9fd881d40cdf8408a6ddc72898b7d2a3954cc9821f84090a8240cc9f4ef6e"
+    }
+  }
+]
