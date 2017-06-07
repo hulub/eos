@@ -51,7 +51,11 @@
           "response": "7492fb779c5e72dec245c5b397f45aa5a60c540e41faaef531825fde40e1a08f"
         }
       }
-    ]
+    ],
+    "color": "027c5d85319c8148c8691024ecfc531f570aaf450d9812efa23c44655168e15e75",
+    "eID": "026d6f15fae70fea260d7c2a4f593b8e52aba06daa7cfa9d102b1d47eccf3f6fd3",
+    "valid": false,
+    "reason": "Ballot is not well-formed"
   },
   {
     "color_enc": {
@@ -105,7 +109,11 @@
           "response": "b1fae3fdf4d657ab9b3c49cfdea33cf4479f3a8c82d67fc39c0258319d739772"
         }
       }
-    ]
+    ],
+    "color": "0334b0cd18595b3f6e2cb6a783d50a028c20627c7069a232d8bf4e4f5e753289a4",
+    "eID": "0342c9ca77a3ba90713d765ecb666972e542ecb0729d0860825108095401d447e7",
+    "valid": false,
+    "reason": "Ballot is not well-formed"
   },
   {
     "color_enc": {
@@ -159,6 +167,10 @@
           "response": "1e9e2a31f6df29bc7f275b677f1112c3c8b1f2b4831d7b385e11a9a4b113f645"
         }
       }
-    ]
+    ],
+    "color": "023960c335c748de2cd6dcc05373283752c902ce31fe8d754c35f6dbb8932bd254",
+    "eID": "03beaabfa9c6504a64bab95759efd17bce63773990b17c9d0aa689d78ac3601779",
+    "valid": false,
+    "reason": "Ballot is not well-formed"
   }
 ]
