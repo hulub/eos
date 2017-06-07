@@ -43,6 +43,7 @@
       "commitment": "03e6be2b531079182a7b0eb5dddfafc597eae941648a1daad6b6872cdd564ed28c",
       "challenge": "63dff91310e8d914facb47d61f98da2b6e3310ce746fc1442acea3097d376ed3",
       "response": "e613741e455ac77b235cf798d6fd8b9683f58df989624049719fdc3a9e82b38d"
-    }
+    },
+    "valid": true
   }
 ]
