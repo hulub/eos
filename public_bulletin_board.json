@@ -43,7 +43,8 @@
       "commitment": "03e6be2b531079182a7b0eb5dddfafc597eae941648a1daad6b6872cdd564ed28c",
       "challenge": "63dff91310e8d914facb47d61f98da2b6e3310ce746fc1442acea3097d376ed3",
       "response": "e613741e455ac77b235cf798d6fd8b9683f58df989624049719fdc3a9e82b38d"
-    }
+    },
+    "valid": true
   },
   {
     "ballot": {
@@ -89,7 +90,11 @@
       "commitment": "02539c981f433e944d761d53d0273d710c758d3939739ab254328a90f86a70228a",
       "challenge": "eae19d77f45b510be3b36465bb5fd3bae3d692e19adb55524431b2185273dab6",
       "response": "3094dc52af3b65ecb6ffe952a5f8a8b1b52a71a0a2b59c00cd0ba696f6bb4edd"
-    }
+    },
+    "valid": false,
+    "reasons": [
+      "Ballot has been overwritten"
+    ]
   },
   {
     "ballot": {
@@ -135,7 +140,8 @@
       "commitment": "02e6d4195c220a91c012e1ac7bc25216cf067c7a67d39e02c3eced9d066d62feed",
       "challenge": "0a131cacd8b8e2d1798605097f4ee96b52a1bea58c0488e01b369ef6f5c24f23",
       "response": "c727bee5ddb17fdcede36bb66def3bd9614cfe4202ba0fb236512f13df512363"
-    }
+    },
+    "valid": true
   },
   {
     "ballot": {
@@ -181,7 +187,11 @@
       "commitment": "03928aa331e81a874c605bfb2e79f44bf756bf9e32838f8ebe13da2acf13149b3c",
       "challenge": "c8792326779f5c6850a045efcc68239b11bfadbde0ba010b7522c557dde30bc6",
       "response": "ae8de03b222092b187217269306f88692899280406e75f353c3e744cd27f9d2e"
-    }
+    },
+    "valid": false,
+    "reasons": [
+      "Ballot has been overwritten"
+    ]
   },
   {
     "ballot": {
@@ -227,7 +237,8 @@
       "commitment": "03928aa331e81a874c605bfb2e79f44bf756bf9e32838f8ebe13da2acf13149b3c",
       "challenge": "c8792326779f5c6850a045efcc68239b11bfadbde0ba010b7522c557dde30bc6",
       "response": "ae8de03b222092b187217269306f88692899280406e75f353c3e744cd27f9d2e"
-    }
+    },
+    "valid": true
   },
   {
     "ballot": {
@@ -273,6 +284,7 @@
       "commitment": "02a7deeef5f9048807dacb6cccb9195838f2f4cc51f14b03605549d7cb9ba3f9a9",
       "challenge": "a15402fdaa749e2fd3ab2f714ef54836dc8ac65fe6724bac6262f4771a8d9545",
       "response": "061affea07fd797e9c39b8ed241dc179b15dc94e41d62c6e6dd54ad9ab8f4072"
-    }
+    },
+    "valid": true
   }
 ]
