@@ -1,0 +1,58 @@
+[
+  {
+    "color_enc": {
+      "R": "032ea5a5b2925cbc5381e37a32ab86af36068ecf12ea0bab09180a693256617ae8",
+      "C": "0200f95a06d8589822a25a2bb9d2ad1097cecb839cd5678756ffede118717bc466"
+    },
+    "eID_enc": {
+      "R": "0365bff1d97d3df8b2a7677f51e8ce8dd390cc21a85ff6ea5911b88a7480e68dbe",
+      "C": "02a0387a7a347e03e958bb4af8d739446333a54c2de5cb32ad1a72cd3f2603eca8"
+    },
+    "vote_enc": {
+      "R": "02adadc9112e2f389cb1fea872e2dd97846af86e4c44ec7a98e918f566e73195fa",
+      "C": "0372b6c7e20d83f70382fadbca873a54976d98f92ba7b5c0293657cc78e7f7408c"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "02177115ca3c039928d91b59a56c7550aa5615ac5b5b09d2bab495e85c3bfa7ae6",
+      "C": "039c089486570530ee06588c478e6b0f2748a99c988de215139d6f48f84582c13c"
+    },
+    "eID_enc": {
+      "R": "02b2ca2d705bc5ef9f42b8ef79d6f558fc8243805fe461457d6ea57fccd5af4b97",
+      "C": "0369d3abb23dd4c855d5a6bdcfd33f439c3f26c852f047c41a10e7f6e8e9fa374b"
+    },
+    "vote_enc": {
+      "R": "02b973b74cb4db6fd745c69dfad2cdc18baef31a34bdc42e04db040acbc8fcc73b",
+      "C": "035010f0a3e34d070ddb2625f189d35b586c356201fbccb0ea1120420217e37216"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "03538eed43da0617ecd50038044ac2ba5c0f3eaa6896e93496cc6b175bcc4ceb6a",
+      "C": "038345584ece009c803651fe4cdee964c6dc6a9da8b89b13c2f9077970302d0711"
+    },
+    "eID_enc": {
+      "R": "027014bdf44926412615fe1bfd29c3113c6a267793f868906473fb4274a2bd16f6",
+      "C": "03f4e6bdcb9dbf1c8157c8e2b26b58864a30217518cdb9ae05f62f44b3b65f5f52"
+    },
+    "vote_enc": {
+      "R": "0213976e8cfe28fd49be6ac31058ea0996074366352959d7499e116072ae6c97f5",
+      "C": "036348cdd7710f59caa49f7cc98bb46e0670306709c55c9529e1dd0488623265fa"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "03c1537f4eef4a42dc510ed491b07e7245423ce2ad54279d64ba6cdee5ca5b2102",
+      "C": "0286793722f17fb33cc262f0693a24aacaffeca1b76a54e5337d56e21c12bbe6d2"
+    },
+    "eID_enc": {
+      "R": "02d72c7a533302fa91550797ff456c9b7e44c41c533d0e3808c1992b4486006b38",
+      "C": "02204d666b8700b024b3fb4997c1e63163aba98299e73ea7535caf045569703f1c"
+    },
+    "vote_enc": {
+      "R": "03f5631621a4b800134a3126941c8f1348af43c706beff9ee9067c26ce01e0f0e5",
+      "C": "02c38b43f9f5ff2719cf5fac13cb0d768b2bb16a1b4ee1ac420ca13b7caed09b79"
+    }
+  }
+]
