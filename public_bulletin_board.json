@@ -43,7 +43,8 @@
       "commitment": "0322d09d943f53108e4267fa5a564589f0a78c97725baa13ba7b437a83747be20a",
       "challenge": "e9d292c3204a18e6cb86568c2bc6d38d9229fd07bbc302c25405ce3fa99f9f20",
       "response": "b28d6ca541202f140624db11645a2782c74d33c2f7fe9da405c582324322dc46"
-    }
+    },
+    "valid": true
   },
   {
     "ballot": {
@@ -89,7 +90,11 @@
       "commitment": "037f15e05aefaa15c3c4d73585f16c591de4c1003ca4f71272a340486d2bd2a78c",
       "challenge": "b876d42b3bb778049027579cfd577a578d63a188050b4b1b592976be8a36a98b",
       "response": "96cde9e54eb7b4a9de1348245526b255473156606ca9684ca98cb7b65ae74c47"
-    }
+    },
+    "valid": false,
+    "reasons": [
+      "Ballot has been overwritten"
+    ]
   },
   {
     "ballot": {
@@ -135,7 +140,8 @@
       "commitment": "037f15e05aefaa15c3c4d73585f16c591de4c1003ca4f71272a340486d2bd2a78c",
       "challenge": "b876d42b3bb778049027579cfd577a578d63a188050b4b1b592976be8a36a98b",
       "response": "96cde9e54eb7b4a9de1348245526b255473156606ca9684ca98cb7b65ae74c47"
-    }
+    },
+    "valid": true
   },
   {
     "ballot": {
@@ -181,6 +187,7 @@
       "commitment": "02b38ba82880cd3710b25028562ad7ebf4df00480cc4c5bc5289a566b299d8ff82",
       "challenge": "ce355eca464e1d0f72482a589bb42772a94349642d18bf7bb66fa1049dc73352",
       "response": "efccf911c21bac242d77158e1e608029ff61939debc5250252a5432cdf5034f0"
-    }
+    },
+    "valid": true
   }
 ]
