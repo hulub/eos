@@ -12,8 +12,30 @@
       "R": "03fc4f611a332a1e384eea8b21575cda949ef89fd11ff3e3670a45fb645b266f4d",
       "C": "0296cbb267c0bac0755174cb59a41395017d0ef6856af323c78d3a4ffb20b3bbb6"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 0,
+        "S": "024061354cf5f0cb95193376d0a91eb356f612d1ed03e902f0fb1263d312571eb1",
+        "pk": {
+          "commitment1": "03345c952231b4c4b3081ee0839ac03437a679a5c70f1e3a46a97e692b9148e40a",
+          "commitment2": "020330c1098ce3d3e44e0b0ab236c29229fb859219208c487d471c6a9bb9401c3e",
+          "challenge": "80e1fbe5f68a2612a05631ca5fa4a31ef377df21e4b5de2bf19e976698d83d3f",
+          "response": "8a8165b710eaecfcedd434a16ebaade5866f84a787ffa51830b9eb4cfa170b44"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 0,
+        "S": "03696bae502c7b554710bf2053740a247c23ba1b38c170902785162bf45a4392a8",
+        "pk": {
+          "commitment1": "02d343b434e81689c4c0d9bee21f307e46e9b36faf6f86e2a7230b03ec1c411aa1",
+          "commitment2": "03e48a3ff9b5b8364b4077fe31acf2fc3840f188334bbed29074e07b97dfce6123",
+          "challenge": "6902f39b9d0ea669e633705b0c5d4e40481ec19abee6aeeb62136e56c48c8172",
+          "response": "4b9167aa3521086964ad9825eed6c9a9c9df25b69c53f89284c93cf7fff83665"
+        }
+      }
+    ]
   },
   {
     "color_enc": {
@@ -28,8 +50,30 @@
       "R": "03b442e06f21940f25d0710cc5e2a5bf8a48c4bd9a3bfdc8a34ce0f616e64d20ba",
       "C": "03b6d68b3c9c9e033292ee5769069b2625fe0655771ed02773978f25210a762a37"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 0,
+        "S": "0341c7eff66fee4a6871f0c997bbb2cc6d5e113ca47cdda19b80d14ba1312a9552",
+        "pk": {
+          "commitment1": "03f80763ea67b359f747e9baa0044f386b7194b23f85b9945d79c78b206138d919",
+          "commitment2": "034db4953e1a03d77610dc76caf5539afd46069731aacffabd3f3f91985083d995",
+          "challenge": "3a3c0e7e48089397c7fe2fca86235d5311cfa39b9b92615ed38d5c2c23499fa8",
+          "response": "de912866b3a5d31ebb307d25f46142b0bdc29b00ee10b473cc70bef1e26ca8cc"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 0,
+        "S": "02f84e73d1c5ff2ef75cba3b1ec587d95e82d681334d3e708219d44fbe7d02b0b3",
+        "pk": {
+          "commitment1": "025a14feb436a0e206ac1c81cbfb115998b9fc97412383d298a07c07ccd88a874e",
+          "commitment2": "03b429df5dcfe94dcd42d8b8ef19730491b49afa4f83df72be4a7d2206d9d1e819",
+          "challenge": "76b8217681ad838ac6f8dccef651faa8468f7710e40d9630c0fcaea2a2849d16",
+          "response": "cde6cd3423f5f1551948cd2a245f8e583f5159852ed2feb78e7fbc5adf34a294"
+        }
+      }
+    ]
   },
   {
     "color_enc": {
@@ -44,7 +88,29 @@
       "R": "02d57582fa89d33ad7bbdbc709dc178ba3a8e122bc9c374b436b10041cfbcf15fb",
       "C": "02454f9ce5f1a2640667d62710e602e79ff0f6feae026e81b8365dbe41b08fcb54"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 0,
+        "S": "02376cf247afba3e9b7eac377b78445daf701b366c14b9d762d87b4460fa69554f",
+        "pk": {
+          "commitment1": "034d58065f7aeba0c3f98b5511b1ec995d93668d875ee63d549b8cc58eee26c220",
+          "commitment2": "03fcd3e9f956ff641f0388ae93556b6ae924cd382930d7a7a4345f8cb8ffd1dcef",
+          "challenge": "fc484f3abe9c31318f06f89e260538c097e592f65e9936249240f11a8de9c910",
+          "response": "c9a2d60a57683368dc8a0f3bf580c0caa7ecab3c30bffdc8fbf810223f724444"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 0,
+        "S": "022e42c0cf0fcdf4c6f8dbaec20edb8cd8432b7f967ecd888db4efc42785c8252f",
+        "pk": {
+          "commitment1": "039b05e60887ee4f9449a309c80739464b0d0879e9d12857b3137e20e7995ea963",
+          "commitment2": "02e7b50acc55685fd88f35a0b3f80df11a46a0aaa124c96626f2953633c26fa880",
+          "challenge": "78213f39d0ce15c254a9b20788c55d3d72b9e5bac6804a9bddc443cb59fb9a71",
+          "response": "315a50961b84c391bc620d863d7a2ececf5de137585c962f9acc7c662943a9a0"
+        }
+      }
+    ]
   }
 ]
