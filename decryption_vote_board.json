@@ -14,6 +14,16 @@
           "challenge": "2a204f242fe39445c50d6ff20d57b79ff09d3266338cb455f0fce128a9b6bcc0",
           "response": "c9621da57d33659bd340cce571e5b674d01821fe39645e8ceaea92db1e46d61b"
         }
+      },
+      {
+        "teller": 0,
+        "S": "03da6bc83e64b686eaf4f36b371d2a48c7cf973931a7799b3192d23cd5b6d821b1",
+        "pk": {
+          "commitment1": "024d24b0747529f708984b8002c728b5e9e3268dd45da87af99b8d9b0c182a54a5",
+          "commitment2": "0265e3dccbdef79022fbc24a8045885331b96cd2ef908e4ab4c9c70c8e118e3b17",
+          "challenge": "870861bf628462771a9fa322584c8202ad0933a1dc5393f6f921ad50441a0476",
+          "response": "10299b2e29c4cdb213867195d59ded9d11ce24937ad7aeb2c3c29f042908d5c0"
+        }
       }
     ]
   }
