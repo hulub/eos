@@ -12,8 +12,30 @@
       "R": "02bd75d9579888813b5c4e3c70abaceeb8aa6461022eeb4dd0ee92319cc0a116b6",
       "C": "0280727e7191357ee10f8ff83e34d571b937853ede31f7dfd9fb23e64550144e5e"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 0,
+        "S": "02fdd22738c6653c46681467b584eb4d46b5862b87dca9f1da0609d657d982ad66",
+        "pk": {
+          "commitment1": "03d62fe69a30fb1fe28aeb5a2c66dd9ba76c7268d0effb240033c2bc572f9d0305",
+          "commitment2": "024722c4e988e801756a7fdd679050be73d234ac15cde5afbd081f88c17b0d3f2b",
+          "challenge": "af03c1bb5eb2c74e6b65de22be7e325c39f7d2ef2f96bcf64afe3c30db037042",
+          "response": "1924314e8d087ccfd5f26afd1a5838cded116eed7f091b43b2b02bf1c7db6d13"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 0,
+        "S": "028db093e75565e4d6ae63b70dc1d13db0571048b66f85977bd908a5915d60f487",
+        "pk": {
+          "commitment1": "02a569081c3e0da3c3b12dab36b5427dbaa48b1e04bb96176730dbb732dbf9a46b",
+          "commitment2": "025046840eb305ff3264c57f376bd0436aee53d59508cd2633b9003fd7fb0291a9",
+          "challenge": "7e0f5f2e8e0181b2cd66c12cdccdd87d1462c9629cf09592b9491d421f25d8b2",
+          "response": "d84d37b616483760a844ce2e13b27db9ce49be0c99598ec37a05135ba0c5c085"
+        }
+      }
+    ]
   },
   {
     "color_enc": {
@@ -28,8 +50,30 @@
       "R": "035ab049e0ec92685c6f7c35d54b552beefe6a3c4102d11785ae401700ee67b4fb",
       "C": "027ae7fe51b5da3f24e900e79a5f58f53cd80b326ad5e19cfd9216a3876acb187f"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 0,
+        "S": "02aa8ce53bd1633febd803e68ed466d897826617f5ad4643d0c67ebf1f967a0044",
+        "pk": {
+          "commitment1": "03855a1c30b16b9259f310bf6088c1cb129e2b4497bd6f0e3cde3a024ed86b1473",
+          "commitment2": "0281c848859101b014245fd7dc6dbd08c88ee1de1592235d4881817e18d2a73034",
+          "challenge": "6792e02a9cec813aafe2407dc0fe98022bd401db734f96761b45489d6e12feda",
+          "response": "0430158f0eadd33af12e0baddc50f83bee8618dd9fa851332f5db0a4f1515fe1"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 0,
+        "S": "02678669380f5935682b8ee4621b0ce755628b722a12ede9351d22fe1361e8fa97",
+        "pk": {
+          "commitment1": "02e2ec0357fac3fc068f44be9a267770ec491483eb172403112715cc7951734e5c",
+          "commitment2": "02f28a391dabe41f1c7f7d9356479bbe969e900dda02f278d44aca2c8611016333",
+          "challenge": "cba9083f35f45e8389ea74b364da6b5dcbfa9fed9355aeb972db8edcc01f3c17",
+          "response": "e5ce5ec11f4bc8301c6b9e26832e4c83f8de7ced072e1f722ecdd69e7263c9f2"
+        }
+      }
+    ]
   },
   {
     "color_enc": {
@@ -44,7 +88,29 @@
       "R": "02a24c2bfb96a71708d007cbb8ece57c0db43a9021438dd84f2f46763ef3176b28",
       "C": "03784c3bea8d9dadda7056f9dc0b86a2b131617c0a73ecf3918a1c5cc54895ec3f"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 0,
+        "S": "02d50255f6135f8086ee7315ce5cc4287d2641e305c056d968c7c160a1cc1e2d56",
+        "pk": {
+          "commitment1": "02466bbf4267470223d7e427f2358e323b8f38b5d0f098b45c7bd5dda911c2c5e3",
+          "commitment2": "03914c3376b3d17235b94a5fea755ddbaad3e66976c3e5d71e4daf142b6daca66c",
+          "challenge": "09e162a18c1f04d296058cf5c2dd33ccfbf7549e04731e435946ca26a7daa0e2",
+          "response": "b4ccc492940043c80c3144df9cb13fb9855c5a34bfd7324d9611c357b88e410a"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 0,
+        "S": "036be6d8e9afa31defba5c2db8ade6f1a375ffa12ab2178d312fb3457c30c955cd",
+        "pk": {
+          "commitment1": "03d7d2a8c9d97c9771df10f5a6889ced3a55b47f2a4fc48876fc8b00da979cc3c0",
+          "commitment2": "02fb6c5d1456acb5a1e9c71845a473c73c1740ae76b5eb87eee6d2f8285f33ea2a",
+          "challenge": "2bb4d93040f4f5e7a1251e546f27fd5d6c3f0ebb405190ebc19aa8c163988517",
+          "response": "546d561dd30090081f47d09c02f75bf7cd33791e32e578d6a53610c350a70566"
+        }
+      }
+    ]
   }
 ]
