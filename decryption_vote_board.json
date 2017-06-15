@@ -25,7 +25,9 @@
           "response": "46c9d9968aa872663f5ff7341bec216cc99e03921ae2144ddb4e4f5a6fe9fb80"
         }
       }
-    ]
+    ],
+    "vote": "03476eac88c0e2b7c4768c9911b4949d53902a2c1b4bd14797a0f2e78d2d76a583",
+    "valid": true
   },
   {
     "vote_enc": {
@@ -53,6 +55,8 @@
           "response": "f0a568fc4cc680e388a94f767ea835f6d06c8b4fd796abf4e330e9352a179abb"
         }
       }
-    ]
+    ],
+    "vote": "02594ff09e960cb02238df14e40a220aff83701bf9e1834925a4543cf77d8e32ed",
+    "valid": true
   }
 ]
