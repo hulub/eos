@@ -55,6 +55,10 @@
           "response": "0a102137e3f858a49d9b4dab45be06136d392073bbdbb599fcc7833440c8b3a2"
         }
       }
-    ]
+    ],
+    "color": "00",
+    "eID": "00",
+    "valid": false,
+    "reason": "Ballot is coerced"
   }
 ]
