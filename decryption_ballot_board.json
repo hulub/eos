@@ -12,7 +12,29 @@
       "R": "02619da38916021260d5dca690c307f46f7b769ead551f797097059107c3ac789b",
       "C": "037f3dd001c590f93b9a12ede57f9827821f6857678e6fac2cd06fd548ac64c3b9"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 1,
+        "S": "030a83c3c528c94504c557ea90fa55c2b93500a4e03cbf6a20d6a65f93ec048936",
+        "pk": {
+          "commitment1": "037f29497cf67d68f2fc01d7210cee8aabe6691f1f84085c203fea433dcf2a3079",
+          "commitment2": "03ef3441fae257e0fb5ba8a046fd675c02dd53c28d72b29ff8078e942d7eb29c19",
+          "challenge": "d5f018da5f89b884872ce03119bcf1b92c7731553d9785c181cfc4feebb3910b",
+          "response": "ad574116c70d83c460b24d2a9100eb71a68c6461526bb43909b90d2b044a90f0"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 1,
+        "S": "03b0079f2c33513933ea600308a34fffeb4a50487fe9d6dd305b1a718e036c9b12",
+        "pk": {
+          "commitment1": "02ec8d1a6e5d54a825d2e14b2174208b9d87356d91f9fea39c2dc6ea35c7710186",
+          "commitment2": "02d05ac5b7dc7327e4cccbe0f2236ed30d2fef91ba8929b1003d2fafa14df2ddaf",
+          "challenge": "31bb4b233aa43b3129de92ecf343186fd25c366e4afa9a74f09a04aa39f70e39",
+          "response": "6631f38396b03dae6affa300ecacb6084a8da10c07a251d5b186fbc63a811e91"
+        }
+      }
+    ]
   }
 ]
