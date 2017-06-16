@@ -43,7 +43,8 @@
       "commitment": "033deb994d003888427b5bd7f607437e0566554c48d0f87a363cd0b584bcb1828c",
       "challenge": "28b0a5eaa8d9ceb1915dd9c6dbbb43bfb71361c11cba0506adf005418b1d31d0",
       "response": "4bdcc3d1d3dc0a3c47a8ea057ab4f39c38fb17e2c61609899ba1e56a87db0464"
-    }
+    },
+    "valid": true
   },
   {
     "ballot": {
@@ -89,6 +90,7 @@
       "commitment": "02b38ba82880cd3710b25028562ad7ebf4df00480cc4c5bc5289a566b299d8ff82",
       "challenge": "ce355eca464e1d0f72482a589bb42772a94349642d18bf7bb66fa1049dc73352",
       "response": "efccf911c21bac242d77158e1e608029ff61939debc5250252a5432cdf5034f0"
-    }
+    },
+    "valid": true
   }
 ]
