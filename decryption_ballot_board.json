@@ -12,8 +12,30 @@
       "R": "030f7a7abab91217e0a4beeff276543272d4ac77d129093204ac046258672e2de0",
       "C": "035fa399bc2ffad4d46a30d84a3df817bb536664add20a88aeb99011fee8e8b0df"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 1,
+        "S": "03491a6103fe2a4b48dfddd3bd9e3bd1866011daa082627c7459c0a44335ef4e5b",
+        "pk": {
+          "commitment1": "03e532e3599189fc79b53bbf8af3002347207f576a9d0e247bcc1a6b89db2137cb",
+          "commitment2": "03e840e7ca4b7580f9046184ac84f13b33757dd8d7cc9a730b9c2593a1e9d4b3bf",
+          "challenge": "c687a542872bbd1fb12e3bcadf12270e4995f583a42bced854eafc0aa1a8b79d",
+          "response": "699413381fe7c4375f89cbe7945a31722d5bf812f2ab8637203d75dba8fe8b30"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 1,
+        "S": "036676dd76c8505735411c5998af422ff249c47ad9722b52d47023321cec3f194e",
+        "pk": {
+          "commitment1": "026b823b89ab07f13a32317c6fe5a2adf81d48ed92822b47e445557d6a966d57d2",
+          "commitment2": "027c0dea8f51ccb715acfc7299d082f75c79bd354b1d56d8e55058a5655860dadf",
+          "challenge": "4052994d135d2fd426b4246cefa8d8e8316189e89fb6a93a30e312af97477585",
+          "response": "49ee2a1373e0b8889750422d2680a99c010accc0b5193ef35aba99e975e45296"
+        }
+      }
+    ]
   },
   {
     "color_enc": {
@@ -28,7 +50,29 @@
       "R": "039879c9214fa46f063746675b1709d3924aa45b5023eff2de8c2be12efbef4a07",
       "C": "02d291d1359fbad96954bd1207dd301c68657d1eeb1bea12337e7f0c4dfa40cc03"
     },
-    "color_part_dec": [],
-    "eID_part_dec": []
+    "color_part_dec": [
+      {
+        "teller": 1,
+        "S": "02cf955d413970835b6f6678c9c6cde969e46477ae7b4b7a8998e5ea9b5656bb94",
+        "pk": {
+          "commitment1": "023f00ff6f23c050063b23648a54e6320ce7472e3bb77a34a035c16dacc874a8b6",
+          "commitment2": "0277e7e0161af29542267a00c65668f698cdd4ca60b0d2a642a53d01755892fb4d",
+          "challenge": "49978988cd94681b4b515d6cc687a7236edb17d9cfdb5236ed481357673bef44",
+          "response": "8a4c0de819d53be13d0e8a48c2ff5a0ebf5e72869cb5f536dc06f3b42cc91f10"
+        }
+      }
+    ],
+    "eID_part_dec": [
+      {
+        "teller": 1,
+        "S": "0258c2ca0fbf4d31f79787d1111a2d360ab848be586ba0bab28794986892651f9f",
+        "pk": {
+          "commitment1": "02e26d719e7c0bb936e9a9ec59817a370322fcbcbb47a3a0851fb4d6174dab9297",
+          "commitment2": "0367f8816bbb45bf0c78aaec0a5ef3fd2f879bbd08c4fd6aaf63229e32778fc150",
+          "challenge": "84e20bc65f19b089ecaff6fba7f7784c50c29480e92013a73152bebd06ca3f9e",
+          "response": "4360ef5cedc05121a4eeb996a979332dc1cc1f1aee6d7194aa30e83fc31c8fa6"
+        }
+      }
+    ]
   }
 ]
