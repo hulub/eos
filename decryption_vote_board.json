@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "vote_enc": {
+      "R": "030f7a7abab91217e0a4beeff276543272d4ac77d129093204ac046258672e2de0",
+      "C": "035fa399bc2ffad4d46a30d84a3df817bb536664add20a88aeb99011fee8e8b0df"
+    },
+    "vote_part_dec": []
+  }
+]
