@@ -4,6 +4,17 @@
       "R": "03b278b351eae0ac4c21832a1839a19ddfe5f5f5a0de93b7f39f021df47a13458b",
       "C": "037c03e74e4ec6aaeb846b6b680a9428847031e8324fcea6af9e4d9611b31a5386"
     },
-    "vote_part_dec": []
+    "vote_part_dec": [
+      {
+        "teller": 0,
+        "S": "024c646fa587661d03d5bc5b8aaca80fab33061766581a05ca554b4473812782e9",
+        "pk": {
+          "commitment1": "0325eaef64257d55846fd74258e76c3e49bf7d1a7c4f63bcb61e6b5102e65e3031",
+          "commitment2": "03ceac95cafd5b073b7edac8a7317fa93c5172606b3cdda943a9525aac89cfc6c7",
+          "challenge": "43756af6709cae2af233d408720723c7d1c66fd45e9f2551b882cfb8bc55f49f",
+          "response": "33c980ba94507f22a19e89f485fc4bb0359d81aae6ba52e3086877a855c99251"
+        }
+      }
+    ]
   }
 ]
