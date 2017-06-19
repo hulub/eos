@@ -55,7 +55,11 @@
           "response": "4a2627c7c6fad0e242821c769789f630ed8185330a97e61ac1c019c4af7436fb"
         }
       }
-    ]
+    ],
+    "color": "00",
+    "eID": "00",
+    "valid": false,
+    "reason": "Ballot is coerced"
   },
   {
     "color_enc": {
@@ -113,6 +117,9 @@
           "response": "0f90aa76c8c9284babd3e4535eed6a21aa4ba1722a314154c9feedc27bc108cb"
         }
       }
-    ]
+    ],
+    "color": "030ea4e33015b2c283ed5a7c0a5b40f60982f53cffdac9dc9ab5f0e59bec635e98",
+    "eID": "02646d548c4a8e2faca72b4f1064335724683eaf7956e450dbb87e29b5b008e5f0",
+    "valid": true
   }
 ]
