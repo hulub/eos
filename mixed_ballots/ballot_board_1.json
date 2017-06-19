@@ -1,0 +1,30 @@
+[
+  {
+    "color_enc": {
+      "R": "02fbec489c8d185b253c0da425a05b2e002fc9860a68a683ccbe015b0314e1422b",
+      "C": "037b68cb6a9de318e117e2cff5f6426fee7529f2ad3fa80bf20738de012b694d2e"
+    },
+    "eID_enc": {
+      "R": "02d12be2fc555992fb5d0c82ec89be5ffb80ee9efd01982cee18c13108cb52dc75",
+      "C": "02d69174aa0eebbf63ed8050a7e147906dac057f33b96d949398bcf23e900324d9"
+    },
+    "vote_enc": {
+      "R": "03e45d3032dd2aeaa7d0e0acf0ac4e3014d80db795bb015581bd101554a1c7c640",
+      "C": "022f898a671e055face819954fa1ceda58380596135486bfabc19f0682419bcc1c"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "0379906aa2d19655230e16c6cc6c972a06f20f6ba6e179b02edc1e101352583448",
+      "C": "024cc688535824ffc45a30ef39d37f1042a1e6874038199f87d1a09b47e5e0c9ea"
+    },
+    "eID_enc": {
+      "R": "03983104ca6c809c672d9695afe6c41a434c2e8cf9305ac50cfe53b11b0c5f90c6",
+      "C": "025cbdbe6b6579d9c3da3896ed241639cdc512eb1cee2b3a98edfeab33c79b7d94"
+    },
+    "vote_enc": {
+      "R": "03b278b351eae0ac4c21832a1839a19ddfe5f5f5a0de93b7f39f021df47a13458b",
+      "C": "037c03e74e4ec6aaeb846b6b680a9428847031e8324fcea6af9e4d9611b31a5386"
+    }
+  }
+]
