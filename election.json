@@ -1,5 +1,5 @@
 {
-  "Y": "03e3f8b6f0ae2f61aa4df7b90c2694c8d3f3dd9c58f0b97e7a42999dffe9add5cf",
+  "Y": "033b9569da52f0f482931f82f8169937bde6554d38dfeea0d4b7190e7968992c6c",
   "L": [
     "033da64c4bae83c89cff8ecfc4c0467579ab8fb689b5ee740eebbd7063d11d70b8",
     "035c00d24f4a0ec3215b4933d62fdddb96f413ff6eb66201a6b623d2a2ca52350b",
@@ -17,12 +17,11 @@
     "02459022446324c3b88eaae56adfe54385f95cadb716ab27f6c33be99fd0523feb"
   ],
   "candidates": [
-    "vanilla",
-    "chocolate",
-    "white chocolate",
-    "nutella",
-    "strawberry",
-    "rhubarb",
-    "liquorice"
+    "Rachel",
+    "Monica",
+    "Chandler",
+    "Phoebe",
+    "Joey",
+    "Ross"
   ]
 }
